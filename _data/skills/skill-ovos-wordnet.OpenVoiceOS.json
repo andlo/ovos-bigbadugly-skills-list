@@ -1,0 +1,18 @@
+{
+  "skill_id": "skill-ovos-wordnet.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-wordnet",
+  "license": "Apache-2.0",
+  "name": "Wordnet Skill",
+  "description": "Uses [Wordnet](https://wordnet.princeton.edu/) to provide information.",
+  "examples": [
+    "What is the definition of ?",
+    "What is the antonym of ?"
+  ],
+  "tags": [
+    "Information",
+    "Wordnet",
+    "query"
+  ],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

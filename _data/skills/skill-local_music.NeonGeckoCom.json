@@ -1,0 +1,24 @@
+{
+  "skill_id": "skill-local_music.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/skill-local_music",
+  "license": "NOASSERTION",
+  "name": "Local Music",
+  "description": "Search and play music saved to the local file system. By default, the contents of\n`/media` will be used, but this can be changed in skill settings. Tagged audio files\nwill have image art and track info parsed from metadata, but you may also organize\nfiles in the following format to parse untagged files (i.e. `.wav` files).\n```\nArtist 1\n|\n|- Album\n|  |\n|  |- 01 Song Title.wav\n|  |- Folder.jpg\nArtist 2\n|\n|- Album 2\n...\n```",
+  "examples": [
+    "Play local music.",
+    "Play music."
+  ],
+  "tags": [
+    "Music",
+    "Daily",
+    "music",
+    "NeonAI",
+    "NeonGecko",
+    "Original",
+    "OCP",
+    "Common",
+    "Play"
+  ],
+  "icon": "https://freemusicarchive.org/legacy/fma-smaller.jpg",
+  "author": "NeonGeckoCom"
+}

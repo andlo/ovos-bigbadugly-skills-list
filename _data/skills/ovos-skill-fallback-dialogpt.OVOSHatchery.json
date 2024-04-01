@@ -1,0 +1,15 @@
+{
+  "skill_id": "ovos-skill-fallback-dialogpt.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-fallback-dialogpt",
+  "license": "Apache-2.0",
+  "name": "DialoGPT Fallback Skill",
+  "description": "While this can not compete with [ChatGPT Persona](https://github.com/OpenVoiceOS/ovos-solver-plugin-openai-persona) it is an offline alternative, you can use any model from huggingface to have different personas\n\nFind models [here](https://huggingface.co/models?pipeline_tag=conversational&search=dialogpt)",
+  "examples": [
+    "What is best in life?",
+    "Do you like dogs.",
+    "Does God exist?"
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

@@ -1,0 +1,27 @@
+{
+  "skill_id": "skill-ovos-youtube.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-youtube",
+  "license": "Apache-2.0",
+  "name": "Simple Youtube Skill",
+  "description": "Search youtube by voice!\n\nthis skill can be configured as a fallback matcher for play queries, you can set `self.settings[\"fallback_mode\"] = True`\nand returned results will have lower confidence, other skills should take precedence most of the time\n\nbuilt on top of [youtube_searcher](https://github.com/HelloChatterbox/youtube_searcher)\n\n![](./gui.png)\n![](./gui2.png)",
+  "examples": [
+    "Play rob zombie.",
+    "Play freezing moon with dead on vocals.",
+    "Play programming music mix.",
+    "Play center of all infinity album."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "video",
+    "-",
+    "youtube",
+    "-",
+    "common",
+    "play",
+    "-",
+    "music"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-youtube/dev/./ui/ytube.jpg",
+  "author": "OpenVoiceOS"
+}

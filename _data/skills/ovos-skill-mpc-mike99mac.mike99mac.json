@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-mpc-mike99mac.mike99mac",
+  "source": "https://github.com/mike99mac/ovos-skill-mpc-mike99mac",
+  "license": "WTFPL",
+  "name": "mpc",
+  "description": "Stream music files or Internet radio status from your Linux server using Mycroft powered by OVOS and Neon.",
+  "examples": [
+    "Play track yeserday.",
+    "Play album abbey road.",
+    "Play artist the beatles.",
+    "Play the radio.",
+    "Play genre country from the radio."
+  ],
+  "tags": [
+    "Music",
+    "mpc",
+    "mpd",
+    "music",
+    "skill"
+  ],
+  "icon": null,
+  "author": "mike99mac"
+}

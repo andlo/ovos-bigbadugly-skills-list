@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-mouse-jiggler.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-mouse-jiggler",
+  "license": "Apache-2.0",
+  "name": "Mouse Jiggler",
+  "description": "A Mouse Jiggler prevents your computer from going to sleep while you work or play.\n\nThis skill creates constant mouse activity so your computer won't go idle and trigger screen savers or sleep mode—eliminating the need to log in repeatedly.\n\n![](https://raw.githubusercontent.com/OpenJarbas/jiggle/master/xkcd.png)",
+  "examples": [
+    "Start mouse activity.",
+    "Stop mouse activity.",
+    "Enable mouse jiggler.",
+    "Disable mouse jiggler."
+  ],
+  "tags": [
+    "Configuration",
+    "configuration"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-mouse-jiggler/master/./res/icon/icon.png",
+  "author": "OVOSHatchery"
+}

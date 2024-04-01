@@ -1,0 +1,16 @@
+{
+  "skill_id": "template-skill.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/template-skill",
+  "license": "NOASSERTION",
+  "name": "{title}",
+  "description": "{description}",
+  "examples": [],
+  "tags": [
+    "category",
+    "{categories}",
+    "tag",
+    "tag2"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "NeonGeckoCom"
+}

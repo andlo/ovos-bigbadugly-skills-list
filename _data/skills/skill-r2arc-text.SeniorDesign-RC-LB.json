@@ -1,0 +1,10 @@
+{
+  "skill_id": "skill-r2arc-text.SeniorDesign-RC-LB",
+  "source": "https://github.com/SeniorDesign-RC-LB/skill-r2arc-text",
+  "name": "Simple OVOS Texting Skill",
+  "description": "The skill send a text to a phone number when the user says the word emergency.",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "SeniorDesign-RC-LB"
+}

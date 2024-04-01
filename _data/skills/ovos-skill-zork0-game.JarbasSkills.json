@@ -1,0 +1,18 @@
+{
+  "skill_id": "ovos-skill-zork0-game.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/ovos-skill-zork0-game",
+  "license": "Apache-2.0",
+  "name": "Zork Zero",
+  "description": "The Great Underground Empire is in its heyday. Upscale condos crowd the massive caverns. Subterranean highways stretch from Aragain to the Fublio Valley. And no adventurer has yet set foot in the open field west of the white house.",
+  "examples": [
+    "Play zork zero."
+  ],
+  "tags": [
+    "Entertainment",
+    "adventure",
+    "game",
+    "port"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/door-open.svg",
+  "author": "JarbasSkills"
+}

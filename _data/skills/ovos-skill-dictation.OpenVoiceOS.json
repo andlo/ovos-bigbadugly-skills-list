@@ -1,0 +1,14 @@
+{
+  "skill_id": "ovos-skill-dictation.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-dictation",
+  "license": "Apache-2.0",
+  "name": "Dictation skill",
+  "description": "Captures utterances and disables wake words while active\n\n- start dictation\n- enable continuous conversation mode\n- capture all utterances in converse method\n- converse\n- display dictation on screen live\n- stop dictation\n- restore listener mode\n- save dictation to file\n- display full dictation on screen.",
+  "examples": [
+    "Start dictation.",
+    "End dictation."
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

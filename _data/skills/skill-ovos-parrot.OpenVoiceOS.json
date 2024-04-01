@@ -1,0 +1,24 @@
+{
+  "skill_id": "skill-ovos-parrot.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-parrot",
+  "license": "Apache-2.0",
+  "name": "Parrot",
+  "description": "Turn OpenVoiceOS into a parrot. Speak a phrase and listen to it repeated in OVOS's voice.\n\n\"Hey Mycroft, start parrot\"\n\"hello\"\nhello\n\"what\"\nwhat\n\"who are you\"\nwho are you\n\"Stop parrot\"",
+  "examples": [
+    "Say Goodnight, Gracie.",
+    "Repeat Once upon a midnight dreary, while I pondered, weak and weary, Over.",
+    "Speak I can say anything you'd like!",
+    "Repeat what you just said.",
+    "Repeat that.",
+    "Can you repeat that?",
+    "What did I just say?",
+    "Tell me what I just said.",
+    "Start parrot.",
+    "Stop parrot."
+  ],
+  "tags": [
+    "Entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-parrot/dev/./icon.png",
+  "author": "OpenVoiceOS"
+}

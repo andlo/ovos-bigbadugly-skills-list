@@ -1,0 +1,16 @@
+{
+  "skill_id": "mall_guide_skill.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/mall_guide_skill",
+  "license": "NOASSERTION",
+  "name": "{Malls parser skill neon}",
+  "description": "Skill parses mall web page and returns user name, location and work hours of requested shop, store.",
+  "examples": [
+    "Where is apple?",
+    "Where can I find ABC stores?"
+  ],
+  "tags": [
+    "Information"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "NeonGeckoCom"
+}

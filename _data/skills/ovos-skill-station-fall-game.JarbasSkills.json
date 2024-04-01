@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-station-fall-game.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/ovos-skill-station-fall-game",
+  "name": "Station Fall",
+  "description": "![](http://infocom.elsewhere.org/gallery/stationfall/stationfall1.jpg)\n\nSure, you were promoted to Lieutenant First Class, but this only meant that your dull life of cleaning grotch cages was replaced by an equally dull life of paperwork. Now you've got another assignment tailor- made for a grotchbrain: pilot a spacetruck to a nearby station to pick up a load of trivial forms. Trot and double trot!",
+  "examples": [
+    "Play station fall.",
+    "Save.",
+    "Resume station fall."
+  ],
+  "tags": [
+    "Entertainment",
+    "game",
+    "adventure",
+    "cave"
+  ],
+  "icon": null,
+  "author": "JarbasSkills"
+}

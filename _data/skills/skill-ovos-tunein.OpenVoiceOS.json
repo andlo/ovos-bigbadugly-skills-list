@@ -1,0 +1,20 @@
+{
+  "skill_id": "skill-ovos-tunein.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-tunein",
+  "license": "Apache-2.0",
+  "name": "TuneIn",
+  "description": "",
+  "examples": [
+    "Play heavy metal heart radio.",
+    "Play metal heart radio on tune in."
+  ],
+  "tags": [
+    "Entertainment",
+    "audio",
+    "music",
+    "OCP",
+    "entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-tunein/dev/./res/tunein.png",
+  "author": "OpenVoiceOS"
+}

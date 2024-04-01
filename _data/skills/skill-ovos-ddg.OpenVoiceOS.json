@@ -1,0 +1,24 @@
+{
+  "skill_id": "skill-ovos-ddg.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-ddg",
+  "license": "Apache-2.0",
+  "name": "DuckDuckGo",
+  "description": "Uses the [DuckDuckGo API](https://duckduckgo.com/api) to provide information.\n\nNOTE: this is meant a better alternative to the official duck duck go skill, it will be blacklisted.",
+  "examples": [
+    "When was stephen hawking born?",
+    "Ask the duck about the big bang.",
+    "Tell me more.",
+    "Who is elon musk?",
+    "Continue.",
+    "Tell me more."
+  ],
+  "tags": [
+    "Information",
+    "duckduckgo",
+    "query",
+    "search-engine",
+    "searchengine"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-ddg/dev/./res/icon/ddg.png",
+  "author": "OpenVoiceOS"
+}

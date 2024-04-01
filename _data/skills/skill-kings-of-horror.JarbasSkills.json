@@ -1,0 +1,23 @@
+{
+  "skill_id": "skill-kings-of-horror.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/skill-kings-of-horror",
+  "license": "Apache-2.0",
+  "name": "Kings of Horror Skill",
+  "description": "Indie horror movies for OpenVoiceOS\n\n![](./gui.png)\n![](./gui.gif)\n![](./gui2.gif)",
+  "examples": [
+    "Open horror movies menu.",
+    "Play ninja zombies movie.",
+    "Play horror movie.",
+    "Play indie horror movie."
+  ],
+  "tags": [
+    "Entertainment",
+    "movies",
+    "horror",
+    "indie",
+    "video",
+    "entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-kings-of-horror/dev/./res/icon/kings_of_horror_icon.png",
+  "author": "JarbasSkills"
+}

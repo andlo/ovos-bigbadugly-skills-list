@@ -1,0 +1,28 @@
+{
+  "skill_id": "ovos-skill-mark1-ctrl.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-mark1-ctrl",
+  "license": "MIT",
+  "name": "Enclosure Control",
+  "description": "This skill can be used to trigger changes in the enclosure.",
+  "examples": [
+    "Look up.",
+    "Look down.",
+    "Look left.",
+    "Look right.",
+    "Look left and right.",
+    "Look up and down.",
+    "Reset enclosure.",
+    "Narrow your eyes.",
+    "Spin your eyes.",
+    "Blink your eyes.",
+    "Perform system reboot.",
+    "System mute.",
+    "System unmute.",
+    "Smile animation.",
+    "Listen animation.",
+    "Think animation."
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-radio-browser.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-radio-browser",
+  "license": "Apache-2.0",
+  "name": "Radio Browser Skill",
+  "description": "",
+  "examples": [
+    "Play heavy metal radio."
+  ],
+  "tags": [
+    "Entertainment",
+    "audio",
+    "music",
+    "OCP",
+    "entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-radio-browser/dev/./ui/logo.png",
+  "author": "OVOSHatchery"
+}

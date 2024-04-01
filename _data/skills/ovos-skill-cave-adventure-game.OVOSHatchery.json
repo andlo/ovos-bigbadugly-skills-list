@@ -1,0 +1,20 @@
+{
+  "skill_id": "ovos-skill-cave-adventure-game.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-cave-adventure-game",
+  "license": "Apache-2.0",
+  "name": "Colossal Cave Adventure",
+  "description": "This is a faithful port of the “Adventure” game to a OVOS Skill from the original 1977 FORTRAN code by Crowther and Woods.\n\nRunning via the Z-machine port.",
+  "examples": [
+    "Play cave adventure.",
+    "Save.",
+    "Resume cave adventure."
+  ],
+  "tags": [
+    "Entertainment",
+    "game",
+    "adventure",
+    "cave"
+  ],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

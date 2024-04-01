@@ -1,0 +1,22 @@
+{
+  "skill_id": "ovos-skill-librivox.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-librivox",
+  "license": "Apache-2.0",
+  "name": "Librivox Skill",
+  "description": "Search librivox by voice!\n\n![](./gui.gif)",
+  "examples": [
+    "Read the art of war."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "audiobooks",
+    "-",
+    "librivox",
+    "-",
+    "common",
+    "play"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-librivox/dev/./ui/librivox-icon.png",
+  "author": "OVOSHatchery"
+}

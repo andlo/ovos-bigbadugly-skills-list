@@ -1,0 +1,21 @@
+{
+  "skill_id": "skill-ovos-news.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-news",
+  "license": "Apache-2.0",
+  "name": "News Streams",
+  "description": "News streams from around the globe\n\n![](gui.png)\n![](gui2.png)\n![](gui3.png)\n\nPRs adding new feeds welcome, especially for unsupported languages\n\nSupported stations include:\n\n- [EN-US] AP - Associated Press Hourly Radio News\n- [EN-US] Fox News\n- [EN-US] NPR News Now\n- [EN-US] PBS NewsHour\n- [EN-US] GPB - Georgia Public Broadcasting\n- [EN-GB] BBC News\n- [EN-CA] CBC News\n- [ES-ES] RNE Radio Nacional de España\n- [PT-PT] TSF Rádio Notícias\n- [NL] VRT Nieuws\n- [DE] Ö3 Nachrichten\n- [DE] DLF\n- [DE] WDR\n- [FI] YLE\n- [SV] Ekot\n\n\n### Classic Core Installation\n\nIf you are using this skill with mycroft classic core, you have to [disable the official skill](https://mycroft-ai.gitbook.io/docs/skill-development/faq#how-do-i-disable-a-skill) because they are incompatible\n\nTo play https streams properly you also need to install vlc\n\n```bash\nsudo apt-get install vlc\n```\n\nand make it the default it in your .conf\n\n```json\n\"Audio\": {\n\"backends\": {\n\"local\": {\n\"active\": false\n},\n\"vlc\": {\n\"active\": true\n}\n},\n\"default-backend\": \"vlc\"\n},\n```",
+  "examples": [
+    "Play the news.",
+    "Play npr news.",
+    "Play euronews.",
+    "Play catalan news.",
+    "Play portuguese news.",
+    "Play news in spanish."
+  ],
+  "tags": [
+    "Information",
+    "news"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-news/dev/./res/icon/news.png",
+  "author": "OpenVoiceOS"
+}

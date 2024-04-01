@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-pickup-lines.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-pickup-lines",
+  "license": "Apache-2.0",
+  "name": "Pickup Lines",
+  "description": "![](./screenie.png)\n![](./screenie1.png)\n\nIncludes idle screen.",
+  "examples": [
+    "Tell me a pickup line.",
+    "Say a geeky pickup line.",
+    "Say a lord of the rings pickup line.",
+    "Where do you get your pickup lines?"
+  ],
+  "tags": [
+    "entertainment",
+    "entertainment"
+  ],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

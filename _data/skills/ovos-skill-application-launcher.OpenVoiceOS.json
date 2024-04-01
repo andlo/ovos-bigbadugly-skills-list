@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-application-launcher.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-application-launcher",
+  "license": "Apache-2.0",
+  "name": "Application Launcher",
+  "description": "Launch applications on the Linux desktop\n\nThe standard directories will be scanned for [.desktop files](https://wiki.archlinux.org/title/desktop_entries), application names and execution commands will be parsed from there\n\nScanned folders:\n- /usr/share/applications/\n- /usr/local/share/applications/\n- ~/.local/share/applications/",
+  "examples": [
+    "Open Volume Control.",
+    "Launch Firefox."
+  ],
+  "tags": [
+    "Productivity",
+    "desktop",
+    "desktop-launch",
+    "desktop-launcher"
+  ],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

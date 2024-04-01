@@ -1,0 +1,18 @@
+{
+  "skill_id": "ovos-skill-ci-test.strugee",
+  "source": "https://github.com/strugee/ovos-skill-ci-test",
+  "name": "OVOSSkill",
+  "description": "Information about your skill.",
+  "examples": [
+    "Hello world.",
+    "How are you?",
+    "Thank you."
+  ],
+  "tags": [
+    "TODO:",
+    "ovos",
+    "skill"
+  ],
+  "icon": null,
+  "author": "strugee"
+}

@@ -1,0 +1,23 @@
+{
+  "skill_id": "skill-ovos-notes.LibreVoiceAssistant",
+  "source": "https://github.com/LibreVoiceAssistant/skill-ovos-notes",
+  "license": "Apache-2.0",
+  "name": "DEPRECATED - Notes",
+  "description": "Use OVOS when your hands are busy and you want to quickly take a note.",
+  "examples": [
+    "Take a note.",
+    "Show all my notes.",
+    "Read my last 3 notes.",
+    "Read my first 3 notes.",
+    "Read my last note.",
+    "Read all my notes.",
+    "Delete / Remove note (number)"
+  ],
+  "tags": [
+    "Daily",
+    "notes",
+    "productivity"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sticky-note.svg",
+  "author": "LibreVoiceAssistant"
+}

@@ -1,0 +1,16 @@
+{
+  "skill_id": "ovos-shenanigans.mikejgray",
+  "source": "https://github.com/mikejgray/ovos-shenanigans",
+  "license": "NOASSERTION",
+  "name": "{title}",
+  "description": "{description}",
+  "examples": [],
+  "tags": [
+    "category",
+    "{categories}",
+    "tag",
+    "tag2"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "mikejgray"
+}

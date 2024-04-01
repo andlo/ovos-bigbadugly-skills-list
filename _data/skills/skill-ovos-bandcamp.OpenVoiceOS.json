@@ -1,0 +1,32 @@
+{
+  "skill_id": "skill-ovos-bandcamp.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-bandcamp",
+  "license": "Apache-2.0",
+  "name": "BandCamp Skill",
+  "description": "Bandcamp skill for your hipster music needs\n\n![](./gui.gif)",
+  "examples": [
+    "Play compressorhead.",
+    "Play astronaut problems.",
+    "Play {artist/album/genre/track}",
+    "Search bandcamp for black metal.",
+    "Search bandcamp for {artist/album/genre/track}",
+    "Play center of all infinity album.",
+    "Play {album} album.",
+    "Play freezing moon by mayhem.",
+    "Play {track} by {artist}"
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "music",
+    "-",
+    "audio",
+    "-",
+    "bandcamp",
+    "-",
+    "common",
+    "play"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-bandcamp/dev/./ui/logo.png",
+  "author": "OpenVoiceOS"
+}

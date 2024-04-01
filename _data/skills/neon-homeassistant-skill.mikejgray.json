@@ -1,0 +1,11 @@
+{
+  "skill_id": "neon-homeassistant-skill.mikejgray",
+  "source": "https://github.com/mikejgray/neon-homeassistant-skill",
+  "license": "Apache-2.0",
+  "name": "Home Assistant Neon Skill",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "mikejgray"
+}

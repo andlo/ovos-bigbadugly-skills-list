@@ -1,0 +1,21 @@
+{
+  "skill_id": "EWON-ovos-skills.0xrushi",
+  "source": "https://github.com/0xrushi/EWON-ovos-skills",
+  "license": "Apache-2.0",
+  "name": "Hello World",
+  "description": "This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.",
+  "examples": [
+    "Hello world.",
+    "How are you?",
+    "Thank you."
+  ],
+  "tags": [
+    "Configuration",
+    "helloworld",
+    "first-skill",
+    "hello",
+    "greeting"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg",
+  "author": "0xrushi"
+}

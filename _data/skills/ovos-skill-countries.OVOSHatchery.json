@@ -1,0 +1,24 @@
+{
+  "skill_id": "ovos-skill-countries.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-countries",
+  "license": "Apache-2.0",
+  "name": "Countries",
+  "description": "Country population, area, language, borders, currency, timezone, capital, denonyms...\n\n![](gui.png)\n![](gui2.png)\n![](gui3.png)\n![](gui4.png)\n![](gui5.png)",
+  "examples": [
+    "What is the size of portugal?",
+    "What are the borders of portugal?",
+    "What is the capital of portugal?",
+    "What is the currency of portugal?",
+    "What is the language of portugal?",
+    "What is the population of portugal?",
+    "What is the timezone of portugal?",
+    "What are the people that live in portugal called?",
+    "Where is portuguese spoken?",
+    "Where is portugal located at?",
+    "How many countries do you know about.",
+    "What are the countries in europe?"
+  ],
+  "tags": [],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/./icon.png",
+  "author": "OVOSHatchery"
+}

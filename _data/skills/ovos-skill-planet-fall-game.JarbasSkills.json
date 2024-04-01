@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-planet-fall-game.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/ovos-skill-planet-fall-game",
+  "name": "Planet Fall",
+  "description": "![](http://infocom.elsewhere.org/gallery/planetfall/planetfall1.jpg)\n\nImages of exotic worlds, strange and colorful aliens and Deep Space heroism had danced in your head as you signed the dotted line. And since that day the closest you've come to Deep Space heroism was scrubbing down the radioactive leper colony on Ishmael-3.",
+  "examples": [
+    "Play planet fall.",
+    "Save.",
+    "Resume planet fall."
+  ],
+  "tags": [
+    "Entertainment",
+    "game",
+    "adventure",
+    "cave"
+  ],
+  "icon": null,
+  "author": "JarbasSkills"
+}

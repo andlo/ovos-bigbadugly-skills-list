@@ -1,0 +1,26 @@
+{
+  "skill_id": "skill-ovos-icanhazdadjokes.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-icanhazdadjokes",
+  "license": "Apache-2.0",
+  "name": "Jokes",
+  "description": "Brighten your day with dad humor.\n\n_WARNING:  Laughter is not guaranteed, but eye rolls are likely._\n\nWorks in all languages\n\nNOTE: this will automatically blacklist the official mycroft skill.",
+  "examples": [
+    "Tell me a joke.",
+    "Say a joke.",
+    "Do you know any jokes?",
+    "Can you tell jokes?",
+    "Make me laugh.",
+    "Tell me a joke about dentists.",
+    "Do you know any Chuck Norris jokes?"
+  ],
+  "tags": [
+    "Entertainment",
+    "joke",
+    "jokes",
+    "humor",
+    "humour",
+    "funny"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-icanhazdadjokes/dev/./res/icon/dadjokes.png",
+  "author": "OpenVoiceOS"
+}

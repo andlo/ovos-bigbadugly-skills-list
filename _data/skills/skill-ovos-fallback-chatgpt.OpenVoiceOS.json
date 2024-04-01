@@ -1,0 +1,14 @@
+{
+  "skill_id": "skill-ovos-fallback-chatgpt.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-fallback-chatgpt",
+  "license": "Apache-2.0",
+  "name": "ChatGPT Fallback Skill",
+  "description": "Capabilities:\n\n- Remembers what user said earlier in the conversation\n- Trained to decline inappropriate requests\n\nLimitations:\n\n- May occasionally generate incorrect information\n- May occasionally produce harmful instructions or biased content\n- Limited knowledge of world and events after 2021.",
+  "examples": [
+    "Explain quantum computing in simple terms.",
+    "Got any creative ideas for a 10 year old’s birthday?"
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

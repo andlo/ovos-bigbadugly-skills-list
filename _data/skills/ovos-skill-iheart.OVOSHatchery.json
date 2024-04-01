@@ -1,0 +1,20 @@
+{
+  "skill_id": "ovos-skill-iheart.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-iheart",
+  "license": "Apache-2.0",
+  "name": "IHeartRadio",
+  "description": ":warning: iheart radio only provides podcasts outside the US\n\n![](./gui.png)\n![](./gui2.png)",
+  "examples": [
+    "Play rock radio.",
+    "Play the heavy metal hangover podcast."
+  ],
+  "tags": [
+    "Entertainment",
+    "audio",
+    "radio",
+    "OCP",
+    "entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/./ui/iheart.png",
+  "author": "OVOSHatchery"
+}

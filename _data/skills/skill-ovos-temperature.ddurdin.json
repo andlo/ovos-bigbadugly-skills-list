@@ -1,0 +1,18 @@
+{
+  "skill_id": "skill-ovos-temperature.ddurdin",
+  "source": "https://github.com/ddurdin/skill-ovos-temperature",
+  "license": "Apache-2.0",
+  "name": "Hello World",
+  "description": "Returns the local temperature and forecast fron a NWS website.",
+  "examples": [
+    "How cold is it?",
+    "What is the temperature?"
+  ],
+  "tags": [
+    "Configuration",
+    "temperature",
+    "weather"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg",
+  "author": "ddurdin"
+}

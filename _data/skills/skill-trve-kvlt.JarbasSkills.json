@@ -1,0 +1,20 @@
+{
+  "skill_id": "skill-trve-kvlt.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/skill-trve-kvlt",
+  "license": "Apache-2.0",
+  "name": "Black Metal Music Catalog Skill",
+  "description": "Extensive library of Black Metal music for OpenVoiceOS\n\n![](gui.png)\n![](gui.gif)\n![](gui2.png)\n![](gui3.png)",
+  "examples": [
+    "Open black metal menu.",
+    "Play black metal."
+  ],
+  "tags": [
+    "Entertainment",
+    "music",
+    "black-metal",
+    "video",
+    "entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-trve-kvlt/dev/./res/icon/trvekvlt_icon.png",
+  "author": "JarbasSkills"
+}

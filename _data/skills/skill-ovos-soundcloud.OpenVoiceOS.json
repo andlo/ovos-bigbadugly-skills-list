@@ -1,0 +1,25 @@
+{
+  "skill_id": "skill-ovos-soundcloud.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-soundcloud",
+  "license": "Apache-2.0",
+  "name": "Soundcloud Skill",
+  "description": "Search soundcloud by voice!\n\n![](./gui.png)",
+  "examples": [
+    "Play piratech in soundcloud.",
+    "Play piratech nuclear chill."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "soundcloud",
+    "-",
+    "OCP",
+    "-",
+    "common",
+    "play",
+    "-",
+    "music"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-soundcloud/dev/./ui/soundcloud.png",
+  "author": "OpenVoiceOS"
+}

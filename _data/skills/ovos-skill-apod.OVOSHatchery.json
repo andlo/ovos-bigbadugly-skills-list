@@ -1,0 +1,17 @@
+{
+  "skill_id": "ovos-skill-apod.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-apod",
+  "license": "Apache-2.0",
+  "name": "Astronomy Picture of the Day",
+  "description": "NASA's Astronomy Picture of the Day\n\n![](gui.png)",
+  "examples": [
+    "Astronomy picture of the day.",
+    "Explain."
+  ],
+  "tags": [
+    "Entertainment",
+    "nasa"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-apod/master/./icon.png",
+  "author": "OVOSHatchery"
+}

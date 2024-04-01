@@ -1,0 +1,16 @@
+{
+  "skill_id": "neon-skill-astronomy.dblencowe",
+  "source": "https://github.com/dblencowe/neon-skill-astronomy",
+  "license": "NOASSERTION",
+  "name": "{title}",
+  "description": "{description}",
+  "examples": [],
+  "tags": [
+    "category",
+    "{categories}",
+    "tag",
+    "tag2"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "dblencowe"
+}

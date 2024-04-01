@@ -1,0 +1,17 @@
+{
+  "skill_id": "skill-ovos-wallpapers.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-wallpapers",
+  "license": "Apache-2.0",
+  "name": "Wallpaper Changer",
+  "description": "",
+  "examples": [
+    "New wallpaper.",
+    "Change wallpaper to nature.",
+    "Show me a picture.",
+    "Show me a picture with dogs.",
+    "Make that my wallpaper."
+  ],
+  "tags": [],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-wallpapers/dev/./icon.png",
+  "author": "OpenVoiceOS"
+}

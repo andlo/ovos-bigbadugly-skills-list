@@ -1,0 +1,13 @@
+{
+  "skill_id": "skill-ovos-spotify.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-spotify",
+  "name": "OVOS Spotify skill",
+  "description": "Currently Oauth needs to be performed manually\n\nafter installing the plugin run `ovos-spotify-oauth` on the command line and follow the instructions\n\n```\n$ ovos-spotify-oauth\nThis script creates the token information needed for running spotify\nwith a set of personal developer credentials.\n\nIt requires the user to go to developer.spotify.com and set up a\ndeveloper account, create an \"Application\" and make sure to whitelist\n\"https://localhost:8888\".\n\nAfter you have done that enter the information when prompted and follow\nthe instructions given.\n\nYOUR CLIENT ID: xxxxx\nYOUR CLIENT SECRET: xxxxx\nGo to the following URL: https://accounts.spotify.com/authorize?client_id=xxx&response_type=code&redirect_uri=https%3A%2F%2Flocalhost%3A8888&scope=user-library-read+streaming+playlist-read-private+user-top-read+user-read-playback-state\nEnter the URL you were redirected to: https://localhost:8888/?code=.....\nocp_spotify oauth token saved\n```",
+  "examples": [
+    "Play heavy metal.",
+    "Play motorhead."
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

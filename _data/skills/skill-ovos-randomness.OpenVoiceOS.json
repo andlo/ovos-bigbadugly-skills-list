@@ -1,0 +1,30 @@
+{
+  "skill_id": "skill-ovos-randomness.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-randomness",
+  "name": "skill-randomness",
+  "description": "A skill for all kinds of chance - make a choice, roll a die, flip a coin, pick between two choices, etc.\n\nAccepts a single property: `die_limit`, which is the maximum number of dice that can be rolled at once. The default is 16.\n\n`~/.config/mycroft/skills/skill-randomness.openvoiceos/settings.json`\n\n```json\n{\n\"die_limit\": 16\n}\n```",
+  "examples": [
+    "Flip a coin.",
+    "Tell me my future.",
+    "Help me decide something.",
+    "Pick a number between 1 and 100.",
+    "Roll a die.",
+    "Roll 1 d 20.",
+    "Roll 6 d 8.",
+    "Roll a 20 sided die.",
+    "Roll 5 dice.",
+    "Roll 6, 8 sided dice."
+  ],
+  "tags": [
+    "Chance",
+    "Fun",
+    "Games",
+    "ovos",
+    "skill",
+    "games",
+    "fun",
+    "chance"
+  ],
+  "icon": null,
+  "author": "OpenVoiceOS"
+}

@@ -1,0 +1,22 @@
+{
+  "skill_id": "skill-ovos-youtube-music.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-youtube-music",
+  "license": "Apache-2.0",
+  "name": "Youtube Music Skill",
+  "description": "Search Youtube Music by voice!\n\n![](./gui.gif)",
+  "examples": [
+    "Play António Variações."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "youtube",
+    "-",
+    "common",
+    "play",
+    "-",
+    "music"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-youtube-music/dev/./ui/ytmus.png",
+  "author": "OpenVoiceOS"
+}

@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-numbers.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-numbers",
+  "license": "MIT",
+  "name": "Numbers",
+  "description": "Facts about numbers, math, years and dates from http://numbersapi.com\n\na good example on how to use extract date and extract numbers functions.",
+  "examples": [
+    "Random math fact.",
+    "Random number trivia.",
+    "Random date curiosity.",
+    "Random year trivia.",
+    "Fact about number 666.",
+    "Math fact about number 5.",
+    "Curiosity about year 1992.",
+    "Trivia about tomorrow.",
+    "Trivia about next week.",
+    "Fact about yesterday.",
+    "Curiosity about march 13."
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

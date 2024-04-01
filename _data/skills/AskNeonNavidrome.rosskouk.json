@@ -1,0 +1,18 @@
+{
+  "skill_id": "AskNeonNavidrome.rosskouk",
+  "source": "https://github.com/rosskouk/AskNeonNavidrome",
+  "name": "OVOSSkill",
+  "description": "Information about your skill.",
+  "examples": [
+    "Hello world.",
+    "How are you?",
+    "Thank you."
+  ],
+  "tags": [
+    "TODO:",
+    "ovos",
+    "skill"
+  ],
+  "icon": null,
+  "author": "rosskouk"
+}

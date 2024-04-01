@@ -1,0 +1,30 @@
+{
+  "skill_id": "ovos-skill-daily-blue-marble.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-daily-blue-marble",
+  "license": "Apache-2.0",
+  "name": "Daily Blue Marble",
+  "description": "[Earth Polychromatic Imaging Camera](https://epic.gsfc.nasa.gov/) provides near real time pictures of earth from orbit\n\nCan be used as homescreen\n\n![](gui.gif)\n![](gui.png)\n![](website.png)",
+  "examples": [
+    "Show me earth from space.",
+    "Daily Blue Marble.",
+    "Blue Marble of the Day.",
+    "Animate that.",
+    "Tell me about Earth Polychromatic Imaging Camera.",
+    "Open the epic website from nasa.",
+    "What is the location of DSCOVR spacecraft?"
+  ],
+  "tags": [
+    "Information",
+    "-",
+    "nasa",
+    "-",
+    "idle",
+    "screen",
+    "-",
+    "mark2",
+    "-",
+    "bigscreen"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/./icon.png",
+  "author": "OVOSHatchery"
+}

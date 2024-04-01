@@ -1,0 +1,22 @@
+{
+  "skill_id": "ovos-skill-natgeo-pod.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-natgeo-pod",
+  "license": "Apache-2.0",
+  "name": "National geographic Picture of the Day",
+  "description": "[National Geographic Picture of the Day](https://www.natgeotv.com/ca/photo-of-the-day)\n\nCan be used as idle screen\n\n![](gui.png)",
+  "examples": [
+    "National Geographic picture of the day.",
+    "Explain."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "nasa",
+    "-",
+    "mark2",
+    "-",
+    "desktop"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-natgeo-pod/master/./icon.png",
+  "author": "OVOSHatchery"
+}

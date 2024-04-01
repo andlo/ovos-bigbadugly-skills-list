@@ -1,0 +1,28 @@
+{
+  "skill_id": "ovos-skill-xkcd.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-xkcd",
+  "license": "Apache-2.0",
+  "name": "XKCD Comics",
+  "description": "Comics from [xkcd](https://xkcd.com/)\n\nCan be used as idle screen\n\n\n![](screenie.png)\n\n![](screenie2.png)\n\n![](screenie3.png)\n\n![](website.png)",
+  "examples": [
+    "Open the xkcd website.",
+    "Show me the latest xkcd comic.",
+    "Random xkcd.",
+    "Display comic number 2020.",
+    "How many xkcd comics."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "comics",
+    "-",
+    "idle",
+    "screen",
+    "-",
+    "mark2",
+    "-",
+    "bigscreen"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-xkcd/master/./icon.png",
+  "author": "OVOSHatchery"
+}

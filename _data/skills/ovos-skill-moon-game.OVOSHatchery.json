@@ -1,0 +1,10 @@
+{
+  "skill_id": "ovos-skill-moon-game.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-moon-game",
+  "name": "Apollo 11 Space Game Skill",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

@@ -1,0 +1,18 @@
+{
+  "skill_id": "ovos-skill-stephen-hawking-quotes.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-stephen-hawking-quotes",
+  "license": "MIT",
+  "name": "Stephen Hawking",
+  "description": "\"My goal is simple. It is a complete understanding of the universe,\nwhy it is as it is and why it exists at all.\"\n\n-- Stephen Hawking, 1942 - 2018\n\n![](gui.png)",
+  "examples": [
+    "When was Stephen Hawking born?",
+    "When did Stephen Hawking die?",
+    "Quote from Stephen Hawking."
+  ],
+  "tags": [
+    "Information",
+    "quotes"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-stephen-hawking-quotes/master/./icon.png",
+  "author": "OVOSHatchery"
+}

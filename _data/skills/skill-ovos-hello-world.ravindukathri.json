@@ -1,0 +1,11 @@
+{
+  "skill_id": "skill-ovos-hello-world.ravindukathri",
+  "source": "https://github.com/ravindukathri/skill-ovos-hello-world",
+  "license": "Apache-2.0",
+  "name": "Replace ovos_skill_hello_world code in docker-compose.skills.yml with following code",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "ravindukathri"
+}

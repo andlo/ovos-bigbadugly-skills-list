@@ -1,0 +1,29 @@
+{
+  "skill_id": "skill-device_controls.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/skill-device_controls",
+  "license": "NOASSERTION",
+  "name": "Device Control Center",
+  "description": "Device Control skill handles global core configuration and OS interactions (via messagebus/PHAL service).",
+  "examples": [
+    "Skip wake words.",
+    "Require wake words.",
+    "I want you to exit.",
+    "I want you to shut down.",
+    "I want you to restart."
+  ],
+  "tags": [
+    "Configuration",
+    "Daily",
+    "NeonGecko",
+    "Original",
+    "NeonAI",
+    "controls",
+    "device",
+    "wake",
+    "words",
+    "power",
+    "settings"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "NeonGeckoCom"
+}

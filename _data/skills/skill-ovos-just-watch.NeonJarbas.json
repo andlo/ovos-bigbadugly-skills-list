@@ -1,0 +1,11 @@
+{
+  "skill_id": "skill-ovos-just-watch.NeonJarbas",
+  "source": "https://github.com/NeonJarbas/skill-ovos-just-watch",
+  "license": "Apache-2.0",
+  "name": "JustWatch Skill",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "NeonJarbas"
+}

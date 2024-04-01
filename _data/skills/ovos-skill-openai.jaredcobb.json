@@ -1,0 +1,15 @@
+{
+  "skill_id": "ovos-skill-openai.jaredcobb",
+  "source": "https://github.com/jaredcobb/ovos-skill-openai",
+  "license": "Apache-2.0",
+  "name": "OVOS OpenAI Skill",
+  "description": "The `ovos-skill-openai` project is an OpenVoiceOS fallback skill designed to forward user requests to the OpenAI GPT models. It maintains conversational context using the OpenAI Conversations API. This allows for a more coherent and engaging user experience.",
+  "examples": [
+    "Fallback to GPT models for queries.",
+    "Context management through Conversations API.",
+    "Customizable through."
+  ],
+  "tags": [],
+  "icon": null,
+  "author": "jaredcobb"
+}

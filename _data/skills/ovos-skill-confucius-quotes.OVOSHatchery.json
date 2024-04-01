@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-confucius-quotes.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-confucius-quotes",
+  "license": "Apache-2.0",
+  "name": "Confucius Quotes",
+  "description": "Quote from Confucius\n\n![](gui.png)",
+  "examples": [
+    "Who is Confucius?",
+    "Quote from Confucius.",
+    "When was Confucius born?",
+    "When did Confucius die?"
+  ],
+  "tags": [
+    "Information",
+    "quotes"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-confucius-quotes/master/./res/icon/confucius.png",
+  "author": "OVOSHatchery"
+}

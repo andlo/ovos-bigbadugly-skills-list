@@ -1,0 +1,21 @@
+{
+  "skill_id": "ovos-skill-algorithmic-art.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-algorithmic-art",
+  "license": "Apache-2.0",
+  "name": "Algorithmic Art Skill",
+  "description": "Creating art from math\n\nsee example generated pictures in [samples folder](./samples)\n\n![](./screenshot.png)",
+  "examples": [
+    "Draw a picture."
+  ],
+  "tags": [
+    "Entertainment",
+    "-",
+    "art",
+    "-",
+    "entertainment",
+    "-",
+    "screensaver"
+  ],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

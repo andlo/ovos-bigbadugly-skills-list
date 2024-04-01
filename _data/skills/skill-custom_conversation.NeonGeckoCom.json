@@ -1,0 +1,23 @@
+{
+  "skill_id": "skill-custom_conversation.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/skill-custom_conversation",
+  "name": " Custom Conversations",
+  "description": "Skill, which works using the custom text parsing implementation, provides the functionality to create, share, modify, and use any script files obtained from the shared library.",
+  "examples": [
+    "Tell me available script files.",
+    "What scripts are available?",
+    "Update my conversations.",
+    "Update my skill files.",
+    "Set my startup script to."
+  ],
+  "tags": [
+    "Configuration",
+    "NeonAI",
+    "NeonGecko",
+    "Original",
+    "CustomConversations",
+    "Custom"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "NeonGeckoCom"
+}

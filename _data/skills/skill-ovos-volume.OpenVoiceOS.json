@@ -1,0 +1,23 @@
+{
+  "skill_id": "skill-ovos-volume.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-volume",
+  "license": "Apache-2.0",
+  "name": "Volume Control",
+  "description": "Control the volume of Mycroft with verbal commands.",
+  "examples": [
+    "Turn up the volume.",
+    "Decrease the audio.",
+    "Mute audio.",
+    "Set volume to 5.",
+    "Set volume to 75 percent."
+  ],
+  "tags": [
+    "Configuration",
+    "volume",
+    "volume-control",
+    "sound",
+    "system"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/volume-down.svg",
+  "author": "OpenVoiceOS"
+}

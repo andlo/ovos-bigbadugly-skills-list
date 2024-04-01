@@ -1,0 +1,16 @@
+{
+  "skill_id": "skill-dust.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/skill-dust",
+  "license": "Apache-2.0",
+  "name": "DUST Skill",
+  "description": "Dust short science fiction movies for Mycroft\n\n![](./gui.png)\n![](./gui2.png)\n\nthis skill requires [OCP](https://github.com/OpenVoiceOS/ovos-ocp-audio-plugin)",
+  "examples": [
+    "Play sci fi short movie.",
+    "Play dust."
+  ],
+  "tags": [
+    "Entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-dust/dev/./res/icon/dust_icon.png",
+  "author": "JarbasSkills"
+}

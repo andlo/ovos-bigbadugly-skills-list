@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-fart.andlo",
+  "source": "https://github.com/andlo/ovos-skill-fart",
+  "license": "GPL-3.0",
+  "name": "Farting",
+  "description": "This is just a fun skill that should generate a laugh or two and then never be used again.\n\nWhen asked \"who did that\", Mycroft will answer with a statement such as \"it wasn't me. it was the dog\".\n\nWhen told to \"make a farting sound\", Mycroft will play a randomly selected fart sound file, followed by\na statement such as \"did someone sit on a whoopee cushion\".\n\nWhen told to \"let one slip\" or \"fart randomly\", Mycroft will play a fart sound file and make a comment\nat a random interval between 1 minute and half an hour. This will continue until Mycroft is requested\nto stop via \"halt farting\".\n\nThis is a rewrite of (@aussieW) skill-farting so it will work on Mycroft-core 19.8.",
+  "examples": [
+    "Did you fart.",
+    "What is that smell?",
+    "Fart.",
+    "Make a fart.",
+    "Fart randomly.",
+    "Halt farting."
+  ],
+  "tags": [
+    "Entertainment",
+    "fart",
+    "smell",
+    "fun"
+  ],
+  "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-fart/main/fart.png",
+  "author": "andlo"
+}

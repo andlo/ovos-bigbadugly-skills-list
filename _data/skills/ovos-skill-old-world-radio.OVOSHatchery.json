@@ -1,0 +1,19 @@
+{
+  "skill_id": "ovos-skill-old-world-radio.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-old-world-radio",
+  "license": "Apache-2.0",
+  "name": "Old World Radio",
+  "description": "![](./gui.gif)",
+  "examples": [
+    "Play old world radio.",
+    "Play vintage radio."
+  ],
+  "tags": [
+    "Entertainment",
+    "audio",
+    "music",
+    "entertainment\""
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-old-world-radio/dev/./res/icon/icon.png",
+  "author": "OVOSHatchery"
+}

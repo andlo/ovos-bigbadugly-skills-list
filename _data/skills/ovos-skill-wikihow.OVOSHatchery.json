@@ -1,0 +1,11 @@
+{
+  "skill_id": "ovos-skill-wikihow.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-wikihow",
+  "license": "Apache-2.0",
+  "name": "",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "OVOSHatchery"
+}

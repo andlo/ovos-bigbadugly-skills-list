@@ -1,0 +1,22 @@
+{
+  "skill_id": "skill-instructions.NeonGeckoCom",
+  "source": "https://github.com/NeonGeckoCom/skill-instructions",
+  "license": "NOASSERTION",
+  "name": "Instructions",
+  "description": "Reads structured instructions and guides a user through them.",
+  "examples": [
+    "Start instructions."
+  ],
+  "tags": [
+    "Information",
+    "Daily",
+    "Neongecko",
+    "NeonAI",
+    "NeonGecko",
+    "Original",
+    "Instructions",
+    "Custom"
+  ],
+  "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+  "author": "NeonGeckoCom"
+}

@@ -1,0 +1,18 @@
+{
+  "skill_id": "ovos-skill-zork3-game.JarbasSkills",
+  "source": "https://github.com/JarbasSkills/ovos-skill-zork3-game",
+  "license": "Apache-2.0",
+  "name": "Zork 3",
+  "description": "ZORK III: The Dungeon Master draws you into the deepest and most mysterious reaches of the Great Underground Empire. Nothing is as it seems. And the one responsible for the shadow and darkness -- the Dungeon Master -- embodies the greatest mystery of all.\n\nIn this test of wisdom and courage, you will face countless dangers. But what awaits you at the culmination of your odyssey is well worth risking all.",
+  "examples": [
+    "Play zork 3."
+  ],
+  "tags": [
+    "Entertainment",
+    "adventure",
+    "game",
+    "port"
+  ],
+  "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/door-open.svg",
+  "author": "JarbasSkills"
+}

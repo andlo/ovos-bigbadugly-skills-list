@@ -1,0 +1,21 @@
+{
+  "skill_id": "ovos-skill-sms.SeniorDesign-RC-LB",
+  "source": "https://github.com/SeniorDesign-RC-LB/ovos-skill-sms",
+  "name": "OVOS-SKILL-SMS (OVOSSkill)",
+  "description": "OVOS will text one phone number a predifined text when asked.\n\nThis skill is used in conjunction with [Waveshare's SIM7600X HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm). Essentially, when OVOS recognizes an intent, the skill will create a SIM7600X object and call its send message function with a predefined string.\n### Demo\nhttps://youtu.be/Me-3pXEmSA8.",
+  "examples": [
+    "Text 9 1 1.",
+    "Text for help.",
+    "Contact help.",
+    "Contact emergency responders.",
+    "Get help fast."
+  ],
+  "tags": [
+    "ovos",
+    "skill",
+    "sms",
+    "texting"
+  ],
+  "icon": null,
+  "author": "SeniorDesign-RC-LB"
+}

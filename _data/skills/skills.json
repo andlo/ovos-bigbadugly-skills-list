@@ -1,0 +1,2062 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The big, bad and ugly skills store",
+    "description": "Welcome to The big, bad and ugly skills store",
+    "home_page_url": "https://andlo.github.io/bigbadugly-skills-store",
+    "feed_url": "https://andlo.github.io/bigbadugly-skills-store/skills.json",
+    "items": [
+        {
+            "skill_id": "skill-ovos-hello-world.ravindukathri",
+            "source": "https://github.com/ravindukathri/skill-ovos-hello-world",
+            "license": "Apache-2.0",
+            "name": "Replace ovos_skill_hello_world code in docker-compose.skills.yml with following code",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "ravindukathri"
+        },
+        {
+            "skill_id": "ovos-skill-wikihow.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-wikihow",
+            "license": "Apache-2.0",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-openvscode.andlo",
+            "source": "https://github.com/andlo/ovos-skill-openvscode",
+            "license": "GPL-3.0",
+            "name": "OpenVSCode-Server",
+            "description": "This skill installs openVScode-server on your OPenvoiceOS device. OpenVSCode-server is VSCode in a browser and great\nfor making skills and programs. This skill, sets everything up for you.\nOpenVSCode-server integrate fine with Github, and tools like from the integrated\nshell.",
+            "examples": [
+                "Run VS code server.",
+                "End VS code server.",
+                "Restart VS code server."
+            ],
+            "tags": [
+                "Productivity",
+                "vscode",
+                "editor",
+                "dev"
+            ],
+            "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-openvscode/master/favicon.ico",
+            "author": "andlo"
+        },
+        {
+            "skill_id": "ovos-skill-hhgg-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-hhgg-game",
+            "name": "The Hitchhiker's Guide to the Galaxy",
+            "description": "Play this classic Infocom game from the [Interactive Fiction Archive](http://www.ifarchive.org/).  Peek into the history of gaming, experiencing some of the very earliest examples of interactive worlds using only text -- but this time using your voice!\n\n\n### Original Infocom Description\n![](http://infocom.elsewhere.org/gallery/hhgttg/front_th.jpg)\n\nAs the story begins, you are Arthur Dent, and a bulldozer is preparing to level your house even as an alien space fleet is preparing to level your planet. The incorrigible Mr. Adams has written new material and designed problems, especially for this interactive story. So grab a pint of bitter and a couple for the road and join Ford Prefect, Trillian, Zaphod Beeblebrox and Marvin on a cosmic jaunt into the outer reaches where anything can -- and does -- happen. And don't forget your towel!",
+            "examples": [
+                "Play Hitchhiker's Guide to the Galaxy.",
+                "Save.",
+                "Resume Hitchhiker's Guide."
+            ],
+            "tags": [
+                "Entertainment",
+                "game",
+                "infocom",
+                "adventure"
+            ],
+            "icon": null,
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "fairytalez-skill.andlo",
+            "source": "https://github.com/andlo/fairytalez-skill",
+            "license": "GPL-3.0",
+            "name": "Fairytalez",
+            "description": "This skill enables Mycroft to tell lots of fairytales. So make a cup of coco, and sit back and enjoy listning to the good tales.\n\nContent is from fairytalez.com, so please go visit there if you like the stories.\nFairytalez.com is the world's largest collection of fairy tales, fables and folktales. Discover more than 2,000 classic tales plus new stories by fairy tale fans.\n\nhttp://www.fairytalez.com\n\n\n_\u201cIf you want your children to be intelligent, read them fairy tales. If you want them to be more\nintelligent, read them more fairy tales.\u201d\nAlbert Einstein_",
+            "examples": [
+                "Tell a fairy tale.",
+                "Tell me the story The Little Match Girl.",
+                "Continue story."
+            ],
+            "tags": [
+                "Entertainment",
+                "stories",
+                "story",
+                "tales",
+                "fairy",
+                "fairytale",
+                "fairytales"
+            ],
+            "icon": "https://raw.githubusercontent.com/andlo/fairytalez-skill/master/story-512.png",
+            "author": "andlo"
+        },
+        {
+            "skill_id": "ovos-skill-zork2-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-zork2-game",
+            "license": "Apache-2.0",
+            "name": "Zork 2",
+            "description": "EXPECT THE UNEXPECTED WHEN YOU TAKE ON ZORK II: THE WIZARD OF FROBOZZ.\nAs you explore the subterranean realm of Zork, you'll continually be confronted with new surprises. Chief among these is the Wizard himself, who'll constantly endeavor to confound you with his capricious powers. But more than that, you'll face a challenge the likes of which you've never experienced before.",
+            "examples": [
+                "Play zork 2."
+            ],
+            "tags": [
+                "Entertainment",
+                "adventure",
+                "game",
+                "port"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/door-open.svg",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-rtp.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-rtp",
+            "license": "Apache-2.0",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-rasa-skill.ravindukathri",
+            "source": "https://github.com/ravindukathri/ovos-rasa-skill",
+            "name": "OVOSRasaSkill README",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "ravindukathri"
+        },
+        {
+            "skill_id": "count-skill.andlo",
+            "source": "https://github.com/andlo/count-skill",
+            "license": "GPL-3.0",
+            "name": "Count",
+            "description": "This skill lets Mycroft do counting to a number or and countdown from a number.",
+            "examples": [
+                "Count to 10.",
+                "Countdown from 10."
+            ],
+            "tags": [
+                "Daily",
+                "count",
+                "countdown"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid//rocket.svg",
+            "author": "andlo"
+        },
+        {
+            "skill_id": "ovos-skill-openai.jaredcobb",
+            "source": "https://github.com/jaredcobb/ovos-skill-openai",
+            "license": "Apache-2.0",
+            "name": "OVOS OpenAI Skill",
+            "description": "The `ovos-skill-openai` project is an OpenVoiceOS fallback skill designed to forward user requests to the OpenAI GPT models. It maintains conversational context using the OpenAI Conversations API. This allows for a more coherent and engaging user experience.",
+            "examples": [
+                "Fallback to GPT models for queries.",
+                "Context management through Conversations API.",
+                "Customizable through."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "jaredcobb"
+        },
+        {
+            "skill_id": "ovos-skill-countries.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-countries",
+            "license": "Apache-2.0",
+            "name": "Countries",
+            "description": "Country population, area, language, borders, currency, timezone, capital, denonyms...\n\n![](gui.png)\n![](gui2.png)\n![](gui3.png)\n![](gui4.png)\n![](gui5.png)",
+            "examples": [
+                "What is the size of portugal?",
+                "What are the borders of portugal?",
+                "What is the capital of portugal?",
+                "What is the currency of portugal?",
+                "What is the language of portugal?",
+                "What is the population of portugal?",
+                "What is the timezone of portugal?",
+                "What are the people that live in portugal called?",
+                "Where is portuguese spoken?",
+                "Where is portugal located at?",
+                "How many countries do you know about.",
+                "What are the countries in europe?"
+            ],
+            "tags": [],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-countries/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-local_music.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-local_music",
+            "license": "NOASSERTION",
+            "name": "Local Music",
+            "description": "Search and play music saved to the local file system. By default, the contents of\n`/media` will be used, but this can be changed in skill settings. Tagged audio files\nwill have image art and track info parsed from metadata, but you may also organize\nfiles in the following format to parse untagged files (i.e. `.wav` files).\n```\nArtist 1\n|\n|- Album\n|  |\n|  |- 01 Song Title.wav\n|  |- Folder.jpg\nArtist 2\n|\n|- Album 2\n...\n```",
+            "examples": [
+                "Play local music.",
+                "Play music."
+            ],
+            "tags": [
+                "Music",
+                "Daily",
+                "music",
+                "NeonAI",
+                "NeonGecko",
+                "Original",
+                "OCP",
+                "Common",
+                "Play"
+            ],
+            "icon": "https://freemusicarchive.org/legacy/fma-smaller.jpg",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "skill-smod.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/skill-smod",
+            "license": "Apache-2.0",
+            "name": "Stoned Meadow of Doom Skill",
+            "description": "Stoner Doom for  OpenVoiceOS\n\n![](./gui.png)\n![](./gui.gif)\n![](./gui2.gif)",
+            "examples": [
+                "Open stoned meadow of doom.",
+                "Play stoner doom."
+            ],
+            "tags": [
+                "Entertainment",
+                "music",
+                "doom",
+                "video",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-smod/dev/./res/icon/smod_icon.png",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "skill-ovos-wolfie.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-wolfie",
+            "license": "Apache-2.0",
+            "name": "Wolfram Alpha",
+            "description": "Ask general-knowledge queries of your Mycroft device.\nCommonQuery skill for [Wolfram Alpha](https://wolframalpha.com).\nYou'll be surprised by how much it knows!\n\nYou can also explicitly request to \"ask the wolf\"\n\nNOTE: this is meant to be a better alternative to the official mycroft skill, it will blacklist the official skill!!",
+            "examples": [
+                "Ask the wolf what is the speed of light.",
+                "How tall is Mount Everest?",
+                "When was The Rocky Horror Picture Show released?",
+                "What is Madonna's real name?",
+                "What's 18 times 4?",
+                "How many inches in a meter?"
+            ],
+            "tags": [
+                "Information",
+                "wolfram-alpha",
+                "query",
+                "general-knowledge",
+                "information"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-wolfie/dev/./res/icon/wolfie.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-rasa-skills.ravindukathri",
+            "source": "https://github.com/ravindukathri/ovos-rasa-skills",
+            "name": "Code in the skill compose file",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "ravindukathri"
+        },
+        {
+            "skill_id": "skill-ovos-wallpapers.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-wallpapers",
+            "license": "Apache-2.0",
+            "name": "Wallpaper Changer",
+            "description": "",
+            "examples": [
+                "New wallpaper.",
+                "Change wallpaper to nature.",
+                "Show me a picture.",
+                "Show me a picture with dogs.",
+                "Make that my wallpaper."
+            ],
+            "tags": [],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-wallpapers/dev/./icon.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-shenanigans.mikejgray",
+            "source": "https://github.com/mikejgray/ovos-shenanigans",
+            "license": "NOASSERTION",
+            "name": "{title}",
+            "description": "{description}",
+            "examples": [],
+            "tags": [
+                "category",
+                "{categories}",
+                "tag",
+                "tag2"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "mikejgray"
+        },
+        {
+            "skill_id": "skill-sonos-controller.smartgic",
+            "source": "https://github.com/smartgic/skill-sonos-controller",
+            "license": "BSD-3-Clause",
+            "name": "Sonos Controller",
+            "description": "[Sonos](https://www.sonos.com) is the ultimate wireless home sound system: a whole-house WiFi network that fills your home with brilliant sound, room by room.\n\nThis skill interacts with your Sonos devices and allows you to play music from different music sources such as:\n\n* Local library\n* Amazon Music *(account required)*\n* Deezer *(account required)*\n* Plex *(account required)*\n* Spotify *(account required)*\n* Tidal *(account required)*\n\nBefore using a music service, **make sure that you linked** your service account to your Sonos devices by using the Sonos application:\n\n",
+            "examples": [
+                "Play i got a feeling on living room.",
+                "Play i got a feeling by black eyed peas on living room.",
+                "Play i got a feeling from spotify on living room.",
+                "Play i got a feeling by black eyed peas from spotify on living room.",
+                "Play soundtrack playlist on dining room.",
+                "Play soundtrack playlist from spotify on dining room.",
+                "Play soundtrack album on dining room.",
+                "Play back to front album by lionel richie on dining room.",
+                "Play back to front album by lionel richie from spotify on dining room.",
+                "Play soundtrack album from spotify on dining room.",
+                "Play the mysterious universe podcast from plex on office.",
+                "Discover sonos devices.",
+                "What is playing?",
+                "Which artist is playing.",
+                "What are my music services?",
+                "Volume louder.",
+                "Volume quieter.",
+                "Volume down on living room.",
+                "Volume up.",
+                "Quieter.",
+                "Louder.",
+                "Pause music.",
+                "Stop music.",
+                "Stop the music on office speaker.",
+                "Resume music.",
+                "Shuffle off.",
+                "Shuffle on.",
+                "Disable repeat mode.",
+                "Enable repeat mode.",
+                "Next music.",
+                "Previous music.",
+                "Give me information on dining room speaker.",
+                "Give me detailed information about library speaker."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "smartgic"
+        },
+        {
+            "skill_id": "skill-camera.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-camera",
+            "license": "NOASSERTION",
+            "name": "Camera",
+            "description": "The skill allows you to capture pictures and videos and saves them to your local device.\n\nNote: Images and videos can be found in ~/Pictures/Neon and ~/Videos/Neon respectively. Videos aren't currently saved on MyCroft Mark II hardware.",
+            "examples": [
+                "Take a picture."
+            ],
+            "tags": [
+                "NeonGecko",
+                "Original",
+                "NeonAI"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "skill-device_controls.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-device_controls",
+            "license": "NOASSERTION",
+            "name": "Device Control Center",
+            "description": "Device Control skill handles global core configuration and OS interactions (via messagebus/PHAL service).",
+            "examples": [
+                "Skip wake words.",
+                "Require wake words.",
+                "I want you to exit.",
+                "I want you to shut down.",
+                "I want you to restart."
+            ],
+            "tags": [
+                "Configuration",
+                "Daily",
+                "NeonGecko",
+                "Original",
+                "NeonAI",
+                "controls",
+                "device",
+                "wake",
+                "words",
+                "power",
+                "settings"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-easter-eggs.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-skill-easter-eggs",
+            "license": "Apache-2.0",
+            "name": "Easter Eggs",
+            "description": "Some funny things for OpenVoiceOS, mostly quotes from movies.",
+            "examples": [
+                "Current stardate?",
+                "Open the pod bay doors.",
+                "First law of robotics?",
+                "How to play rock paper scissors lizard spock?",
+                "How many languages do you speak?",
+                "Do you like Portal?",
+                "What would Duke Nukem say?",
+                "What would HAL 9000 say?",
+                "What would Arnold say?",
+                "What would GLaDOS say?",
+                "What would Bender say?"
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-rasa-skills.svhozt",
+            "source": "https://github.com/svhozt/ovos-rasa-skills",
+            "name": "Code in the skill compose file",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "svhozt"
+        },
+        {
+            "skill_id": "skill-ovos-parrot.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-parrot",
+            "license": "Apache-2.0",
+            "name": "Parrot",
+            "description": "Turn OpenVoiceOS into a parrot. Speak a phrase and listen to it repeated in OVOS's voice.\n\n\"Hey Mycroft, start parrot\"\n\"hello\"\nhello\n\"what\"\nwhat\n\"who are you\"\nwho are you\n\"Stop parrot\"",
+            "examples": [
+                "Say Goodnight, Gracie.",
+                "Repeat Once upon a midnight dreary, while I pondered, weak and weary, Over.",
+                "Speak I can say anything you'd like!",
+                "Repeat what you just said.",
+                "Repeat that.",
+                "Can you repeat that?",
+                "What did I just say?",
+                "Tell me what I just said.",
+                "Start parrot.",
+                "Stop parrot."
+            ],
+            "tags": [
+                "Entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-parrot/dev/./icon.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-ddg.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-ddg",
+            "license": "Apache-2.0",
+            "name": "DuckDuckGo",
+            "description": "Uses the [DuckDuckGo API](https://duckduckgo.com/api) to provide information.\n\nNOTE: this is meant a better alternative to the official duck duck go skill, it will be blacklisted.",
+            "examples": [
+                "When was stephen hawking born?",
+                "Ask the duck about the big bang.",
+                "Tell me more.",
+                "Who is elon musk?",
+                "Continue.",
+                "Tell me more."
+            ],
+            "tags": [
+                "Information",
+                "duckduckgo",
+                "query",
+                "search-engine",
+                "searchengine"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-ddg/dev/./res/icon/ddg.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "mall_guide_skill.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/mall_guide_skill",
+            "license": "NOASSERTION",
+            "name": "{Malls parser skill neon}",
+            "description": "Skill parses mall web page and returns user name, location and work hours of requested shop, store.",
+            "examples": [
+                "Where is apple?",
+                "Where can I find ABC stores?"
+            ],
+            "tags": [
+                "Information"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "skill-kings-of-horror.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/skill-kings-of-horror",
+            "license": "Apache-2.0",
+            "name": "Kings of Horror Skill",
+            "description": "Indie horror movies for OpenVoiceOS\n\n![](./gui.png)\n![](./gui.gif)\n![](./gui2.gif)",
+            "examples": [
+                "Open horror movies menu.",
+                "Play ninja zombies movie.",
+                "Play horror movie.",
+                "Play indie horror movie."
+            ],
+            "tags": [
+                "Entertainment",
+                "movies",
+                "horror",
+                "indie",
+                "video",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-kings-of-horror/dev/./res/icon/kings_of_horror_icon.png",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-mark1-ctrl.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-mark1-ctrl",
+            "license": "MIT",
+            "name": "Enclosure Control",
+            "description": "This skill can be used to trigger changes in the enclosure.",
+            "examples": [
+                "Look up.",
+                "Look down.",
+                "Look left.",
+                "Look right.",
+                "Look left and right.",
+                "Look up and down.",
+                "Reset enclosure.",
+                "Narrow your eyes.",
+                "Spin your eyes.",
+                "Blink your eyes.",
+                "Perform system reboot.",
+                "System mute.",
+                "System unmute.",
+                "Smile animation.",
+                "Listen animation.",
+                "Think animation."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-numbers.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-numbers",
+            "license": "MIT",
+            "name": "Numbers",
+            "description": "Facts about numbers, math, years and dates from http://numbersapi.com\n\na good example on how to use extract date and extract numbers functions.",
+            "examples": [
+                "Random math fact.",
+                "Random number trivia.",
+                "Random date curiosity.",
+                "Random year trivia.",
+                "Fact about number 666.",
+                "Math fact about number 5.",
+                "Curiosity about year 1992.",
+                "Trivia about tomorrow.",
+                "Trivia about next week.",
+                "Fact about yesterday.",
+                "Curiosity about march 13."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-iss-location.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-iss-location",
+            "license": "Apache-2.0",
+            "name": "ISS Tracker",
+            "description": "Track the location of the ISS\n\n![](./gui.png)\n![](./gui2.png)\n![](./gui3.png)\n\nCan be used as idle screen in a mark2.",
+            "examples": [
+                "Where is the ISS?",
+                "Who is on board of the space station?",
+                "When is the ISS passing over?",
+                "Tell me about the ISS.",
+                "How many persons on board of the space station."
+            ],
+            "tags": [
+                "Information",
+                "nasa"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iss-location/master/./iss2.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-natgeo-pod.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-natgeo-pod",
+            "license": "Apache-2.0",
+            "name": "National geographic Picture of the Day",
+            "description": "[National Geographic Picture of the Day](https://www.natgeotv.com/ca/photo-of-the-day)\n\nCan be used as idle screen\n\n![](gui.png)",
+            "examples": [
+                "National Geographic picture of the day.",
+                "Explain."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "nasa",
+                "-",
+                "mark2",
+                "-",
+                "desktop"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-natgeo-pod/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-zork3-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-zork3-game",
+            "license": "Apache-2.0",
+            "name": "Zork 3",
+            "description": "ZORK III: The Dungeon Master draws you into the deepest and most mysterious reaches of the Great Underground Empire. Nothing is as it seems. And the one responsible for the shadow and darkness -- the Dungeon Master -- embodies the greatest mystery of all.\n\nIn this test of wisdom and courage, you will face countless dangers. But what awaits you at the culmination of your odyssey is well worth risking all.",
+            "examples": [
+                "Play zork 3."
+            ],
+            "tags": [
+                "Entertainment",
+                "adventure",
+                "game",
+                "port"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/door-open.svg",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-stephen-hawking-quotes.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-stephen-hawking-quotes",
+            "license": "MIT",
+            "name": "Stephen Hawking",
+            "description": "\"My goal is simple. It is a complete understanding of the universe,\nwhy it is as it is and why it exists at all.\"\n\n-- Stephen Hawking, 1942 - 2018\n\n![](gui.png)",
+            "examples": [
+                "When was Stephen Hawking born?",
+                "When did Stephen Hawking die?",
+                "Quote from Stephen Hawking."
+            ],
+            "tags": [
+                "Information",
+                "quotes"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-stephen-hawking-quotes/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-fallback-dialogpt.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-fallback-dialogpt",
+            "license": "Apache-2.0",
+            "name": "DialoGPT Fallback Skill",
+            "description": "While this can not compete with [ChatGPT Persona](https://github.com/OpenVoiceOS/ovos-solver-plugin-openai-persona) it is an offline alternative, you can use any model from huggingface to have different personas\n\nFind models [here](https://huggingface.co/models?pipeline_tag=conversational&search=dialogpt)",
+            "examples": [
+                "What is best in life?",
+                "Do you like dogs.",
+                "Does God exist?"
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "tvheadend-radio-skill.WhyNine",
+            "source": "https://github.com/WhyNine/tvheadend-radio-skill",
+            "license": "Apache-2.0",
+            "name": "TVHeadend Radio",
+            "description": "This skill plays a channel from a TVHeadend server, using the audio profile as defined on the server (this means that the video on TV channels is not streamed or decoded). The user can enter aliases for up to five channels to make it easier to request these channels.\n\nThis skill was originally written for Mycroft but has been migrated to OVOS.",
+            "examples": [
+                "Play < radio channel >",
+                "Play < channel alias >",
+                "Play < radio channel > radio.",
+                "Play < radio channel > on TVHeadend.",
+                "Play < channel alias > on TVHeadend.",
+                "Play < radio channel > radio on TVHeadend."
+            ],
+            "tags": [
+                "Music",
+                "Radio",
+                "TVHeadend"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/headphones.svg",
+            "author": "WhyNine"
+        },
+        {
+            "skill_id": "skill-ovos-temperature.ddurdin",
+            "source": "https://github.com/ddurdin/skill-ovos-temperature",
+            "license": "Apache-2.0",
+            "name": "Hello World",
+            "description": "Returns the local temperature and forecast fron a NWS website.",
+            "examples": [
+                "How cold is it?",
+                "What is the temperature?"
+            ],
+            "tags": [
+                "Configuration",
+                "temperature",
+                "weather"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg",
+            "author": "ddurdin"
+        },
+        {
+            "skill_id": "skill-custom_conversation.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-custom_conversation",
+            "name": " Custom Conversations",
+            "description": "Skill, which works using the custom text parsing implementation, provides the functionality to create, share, modify, and use any script files obtained from the shared library.",
+            "examples": [
+                "Tell me available script files.",
+                "What scripts are available?",
+                "Update my conversations.",
+                "Update my skill files.",
+                "Set my startup script to."
+            ],
+            "tags": [
+                "Configuration",
+                "NeonAI",
+                "NeonGecko",
+                "Original",
+                "CustomConversations",
+                "Custom"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-sms.SeniorDesign-RC-LB",
+            "source": "https://github.com/SeniorDesign-RC-LB/ovos-skill-sms",
+            "name": "OVOS-SKILL-SMS (OVOSSkill)",
+            "description": "OVOS will text one phone number a predifined text when asked.\n\nThis skill is used in conjunction with [Waveshare's SIM7600X HAT](https://www.waveshare.com/sim7600a-h-4g-hat.htm). Essentially, when OVOS recognizes an intent, the skill will create a SIM7600X object and call its send message function with a predefined string.\n### Demo\nhttps://youtu.be/Me-3pXEmSA8.",
+            "examples": [
+                "Text 9 1 1.",
+                "Text for help.",
+                "Contact help.",
+                "Contact emergency responders.",
+                "Get help fast."
+            ],
+            "tags": [
+                "ovos",
+                "skill",
+                "sms",
+                "texting"
+            ],
+            "icon": null,
+            "author": "SeniorDesign-RC-LB"
+        },
+        {
+            "skill_id": "ovos-skill-confucius-quotes.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-confucius-quotes",
+            "license": "Apache-2.0",
+            "name": "Confucius Quotes",
+            "description": "Quote from Confucius\n\n![](gui.png)",
+            "examples": [
+                "Who is Confucius?",
+                "Quote from Confucius.",
+                "When was Confucius born?",
+                "When did Confucius die?"
+            ],
+            "tags": [
+                "Information",
+                "quotes"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-confucius-quotes/master/./res/icon/confucius.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-test-skill.ravindukathri",
+            "source": "https://github.com/ravindukathri/ovos-test-skill",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "ravindukathri"
+        },
+        {
+            "skill_id": "ovos-skill-station-fall-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-station-fall-game",
+            "name": "Station Fall",
+            "description": "![](http://infocom.elsewhere.org/gallery/stationfall/stationfall1.jpg)\n\nSure, you were promoted to Lieutenant First Class, but this only meant that your dull life of cleaning grotch cages was replaced by an equally dull life of paperwork. Now you've got another assignment tailor- made for a grotchbrain: pilot a spacetruck to a nearby station to pick up a load of trivial forms. Trot and double trot!",
+            "examples": [
+                "Play station fall.",
+                "Save.",
+                "Resume station fall."
+            ],
+            "tags": [
+                "Entertainment",
+                "game",
+                "adventure",
+                "cave"
+            ],
+            "icon": null,
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "AskNeonNavidrome.rosskouk",
+            "source": "https://github.com/rosskouk/AskNeonNavidrome",
+            "name": "OVOSSkill",
+            "description": "Information about your skill.",
+            "examples": [
+                "Hello world.",
+                "How are you?",
+                "Thank you."
+            ],
+            "tags": [
+                "TODO:",
+                "ovos",
+                "skill"
+            ],
+            "icon": null,
+            "author": "rosskouk"
+        },
+        {
+            "skill_id": "skill-trve-kvlt.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/skill-trve-kvlt",
+            "license": "Apache-2.0",
+            "name": "Black Metal Music Catalog Skill",
+            "description": "Extensive library of Black Metal music for OpenVoiceOS\n\n![](gui.png)\n![](gui.gif)\n![](gui2.png)\n![](gui3.png)",
+            "examples": [
+                "Open black metal menu.",
+                "Play black metal."
+            ],
+            "tags": [
+                "Entertainment",
+                "music",
+                "black-metal",
+                "video",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-trve-kvlt/dev/./res/icon/trvekvlt_icon.png",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-zork0-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-zork0-game",
+            "license": "Apache-2.0",
+            "name": "Zork Zero",
+            "description": "The Great Underground Empire is in its heyday. Upscale condos crowd the massive caverns. Subterranean highways stretch from Aragain to the Fublio Valley. And no adventurer has yet set foot in the open field west of the white house.",
+            "examples": [
+                "Play zork zero."
+            ],
+            "tags": [
+                "Entertainment",
+                "adventure",
+                "game",
+                "port"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/door-open.svg",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "skill-ovos-fallback-chatgpt.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-fallback-chatgpt",
+            "license": "Apache-2.0",
+            "name": "ChatGPT Fallback Skill",
+            "description": "Capabilities:\n\n- Remembers what user said earlier in the conversation\n- Trained to decline inappropriate requests\n\nLimitations:\n\n- May occasionally generate incorrect information\n- May occasionally produce harmful instructions or biased content\n- Limited knowledge of world and events after 2021.",
+            "examples": [
+                "Explain quantum computing in simple terms.",
+                "Got any creative ideas for a 10 year old\u2019s birthday?"
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-instructions.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-instructions",
+            "license": "NOASSERTION",
+            "name": "Instructions",
+            "description": "Reads structured instructions and guides a user through them.",
+            "examples": [
+                "Start instructions."
+            ],
+            "tags": [
+                "Information",
+                "Daily",
+                "Neongecko",
+                "NeonAI",
+                "NeonGecko",
+                "Original",
+                "Instructions",
+                "Custom"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-dictation.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-skill-dictation",
+            "license": "Apache-2.0",
+            "name": "Dictation skill",
+            "description": "Captures utterances and disables wake words while active\n\n- start dictation\n- enable continuous conversation mode\n- capture all utterances in converse method\n- converse\n- display dictation on screen live\n- stop dictation\n- restore listener mode\n- save dictation to file\n- display full dictation on screen.",
+            "examples": [
+                "Start dictation.",
+                "End dictation."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-space-is-awesome.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-space-is-awesome",
+            "name": "Space is awesome",
+            "description": "Ever wanted to know what's up? now you can\n\n![img](/space.jpg)",
+            "examples": [
+                "Next cool thing in space.",
+                "How many astronauts in orbit.",
+                "Where is the space station?",
+                "Who is in space?",
+                "How many confirmed exoplanets.",
+                "How many super earths discovered.",
+                "How many discovered exoplanets orbiting M type stars.",
+                "How many stars known to have planets.",
+                "How far away is voyager.",
+                "What do you know about space?",
+                "Teach me something about pulsars.",
+                "Random fact about exoplanets.",
+                "How many active probes in space.",
+                "Which probes do we have in space."
+            ],
+            "tags": [
+                "Information",
+                "space",
+                "educational",
+                "trivia",
+                "science",
+                "knowledge"
+            ],
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Font_Awesome_5_solid_user-astronaut.svg/1200px-Font_Awesome_5_solid_user-astronaut.svg.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ovos-somafm.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-somafm",
+            "license": "Apache-2.0",
+            "name": "SomaFM",
+            "description": "![somabanner](http://somafm.com/linktous/728x90sfm.jpg)\n\nSomaFM is a listener-supported Internet-only radio station. That means no advertising or annoying commercial interruptions. SomaFM's mission is to search for and expose great new music which people may otherwise never encounter.\n\nIf you like what you hear on SomaFM and want to help, please consider visiting their site and [making a donation](https://somafm.com/support/).\n\n![](./gui.png)",
+            "examples": [
+                "Play soma fm radio.",
+                "Play secret agent.",
+                "Play metal detector."
+            ],
+            "tags": [
+                "Entertainment",
+                "audio",
+                "music",
+                "OCP",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-somafm/dev/./ui/somafm.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-soundcloud.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-soundcloud",
+            "license": "Apache-2.0",
+            "name": "Soundcloud Skill",
+            "description": "Search soundcloud by voice!\n\n![](./gui.png)",
+            "examples": [
+                "Play piratech in soundcloud.",
+                "Play piratech nuclear chill."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "soundcloud",
+                "-",
+                "OCP",
+                "-",
+                "common",
+                "play",
+                "-",
+                "music"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-soundcloud/dev/./ui/soundcloud.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-tunein.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-tunein",
+            "license": "Apache-2.0",
+            "name": "TuneIn",
+            "description": "",
+            "examples": [
+                "Play heavy metal heart radio.",
+                "Play metal heart radio on tune in."
+            ],
+            "tags": [
+                "Entertainment",
+                "audio",
+                "music",
+                "OCP",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-tunein/dev/./res/tunein.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-names.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-names",
+            "name": "Names skill",
+            "description": "",
+            "examples": [
+                "05-10 23:37:41,801 - CLIClient - INFO - Speak: Mary Odom.",
+                "05-10 23:37:49,666 - CLIClient - INFO - Speak: Billy.",
+                "05-10 23:37:52,915 - CLIClient - INFO - Speak: Edith.",
+                "05-10 23:37:56,218 - CLIClient - INFO - Speak: Minardi."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ovos-youtube.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-youtube",
+            "license": "Apache-2.0",
+            "name": "Simple Youtube Skill",
+            "description": "Search youtube by voice!\n\nthis skill can be configured as a fallback matcher for play queries, you can set `self.settings[\"fallback_mode\"] = True`\nand returned results will have lower confidence, other skills should take precedence most of the time\n\nbuilt on top of [youtube_searcher](https://github.com/HelloChatterbox/youtube_searcher)\n\n![](./gui.png)\n![](./gui2.png)",
+            "examples": [
+                "Play rob zombie.",
+                "Play freezing moon with dead on vocals.",
+                "Play programming music mix.",
+                "Play center of all infinity album."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "video",
+                "-",
+                "youtube",
+                "-",
+                "common",
+                "play",
+                "-",
+                "music"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-youtube/dev/./ui/ytube.jpg",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-volume.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-volume",
+            "license": "Apache-2.0",
+            "name": "Volume Control",
+            "description": "Control the volume of Mycroft with verbal commands.",
+            "examples": [
+                "Turn up the volume.",
+                "Decrease the audio.",
+                "Mute audio.",
+                "Set volume to 5.",
+                "Set volume to 75 percent."
+            ],
+            "tags": [
+                "Configuration",
+                "volume",
+                "volume-control",
+                "sound",
+                "system"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/volume-down.svg",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-radio-browser.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-radio-browser",
+            "license": "Apache-2.0",
+            "name": "Radio Browser Skill",
+            "description": "",
+            "examples": [
+                "Play heavy metal radio."
+            ],
+            "tags": [
+                "Entertainment",
+                "audio",
+                "music",
+                "OCP",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-radio-browser/dev/./ui/logo.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-mouse-jiggler.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-mouse-jiggler",
+            "license": "Apache-2.0",
+            "name": "Mouse Jiggler",
+            "description": "A Mouse Jiggler prevents your computer from going to sleep while you work or play.\n\nThis skill creates constant mouse activity so your computer won't go idle and trigger screen savers or sleep mode\u2014eliminating the need to log in repeatedly.\n\n![](https://raw.githubusercontent.com/OpenJarbas/jiggle/master/xkcd.png)",
+            "examples": [
+                "Start mouse activity.",
+                "Stop mouse activity.",
+                "Enable mouse jiggler.",
+                "Disable mouse jiggler."
+            ],
+            "tags": [
+                "Configuration",
+                "configuration"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-mouse-jiggler/master/./res/icon/icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-starcross-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-starcross-game",
+            "name": "Starcross",
+            "description": "![](http://infocom.elsewhere.org/gallery/starcross/starcross1.jpg)\n\nUpon docking with the strange craft, you must succeed in gaining entry to its mysterious interior. Once within, you will encounter a microcosm of the galaxy, peopled with both harmful and helpful beings. But the great starship serves a far larger purpose than mere cultural exchange. It bears a challenge that was issued eons ago, from light-years away- and only you can meet it.",
+            "examples": [
+                "Play star cross.",
+                "Save.",
+                "Resume star cross."
+            ],
+            "tags": [
+                "Entertainment",
+                "game",
+                "adventure",
+                "cave"
+            ],
+            "icon": null,
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-application-launcher.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-skill-application-launcher",
+            "license": "Apache-2.0",
+            "name": "Application Launcher",
+            "description": "Launch applications on the Linux desktop\n\nThe standard directories will be scanned for [.desktop files](https://wiki.archlinux.org/title/desktop_entries), application names and execution commands will be parsed from there\n\nScanned folders:\n- /usr/share/applications/\n- /usr/local/share/applications/\n- ~/.local/share/applications/",
+            "examples": [
+                "Open Volume Control.",
+                "Launch Firefox."
+            ],
+            "tags": [
+                "Productivity",
+                "desktop",
+                "desktop-launch",
+                "desktop-launcher"
+            ],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-alerts.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-alerts",
+            "license": "NOASSERTION",
+            "name": "Alerts",
+            "description": "The skill provides functionality to create alarms, timers and reminders, remove them by name, time, or type, and ask for\nwhat is active. You may also silence all alerts and ask for a summary of what was missed if you were away, your device\nwas off, or you had quiet hours enabled.\n\nAlarms and reminders may be set to recur daily or weekly. An active alert may be snoozed for a specified amount of time\nwhile it is active. Any alerts that are not acknowledged will be added to a list of missed alerts that may be read and\ncleared when requested.\n\nOther modules may integrate with the alerts skill by listening for `neon.alert_expired` events. This event will be\nemitted when a scheduled alert expires and will include any context associated with the event creation. If the event\nwas created with `mq` context, the mq connector module will forward the expired alert for the client module to handle\nand the alert will be marked `active` until the client module emits a `neon.acknowledge_alert` Message with the `alert_id`\nand `missed` data, i.e.:\n```\nMessage(\"neon.acknowledge_alert\", {\"alert_id\": , \"missed\": False}, )\n```",
+            "examples": [
+                "Set an alarm for 8 AM.",
+                "When is my next alarm?",
+                "Cancel my 8 AM alarm.",
+                "Set a 5 minute timer.",
+                "How much time is left?",
+                "Remind me to go home at 6.",
+                "Remind me to take out the trash every thursday at 7 PM.",
+                "What are my reminders?",
+                "Cancel all alarms.",
+                "Cancel all timers.",
+                "Cancel all reminders.",
+                "Go to sleep.",
+                "Start quiet hours.",
+                "Stop.",
+                "Snooze.",
+                "Snooze for 1 minute.",
+                "Wake up.",
+                "What did I miss?",
+                "Did I miss anything?"
+            ],
+            "tags": [
+                "Productivity",
+                "Daily",
+                "NeonGecko",
+                "Original",
+                "NeonAI",
+                "alert",
+                "alarm",
+                "timer",
+                "reminder",
+                "schedule"
+            ],
+            "icon": "https://raw.githubusercontent.com/NeonGeckoCom/skill-alerts/dev/./logo.svg",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-pickup-lines.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-pickup-lines",
+            "license": "Apache-2.0",
+            "name": "Pickup Lines",
+            "description": "![](./screenie.png)\n![](./screenie1.png)\n\nIncludes idle screen.",
+            "examples": [
+                "Tell me a pickup line.",
+                "Say a geeky pickup line.",
+                "Say a lord of the rings pickup line.",
+                "Where do you get your pickup lines?"
+            ],
+            "tags": [
+                "entertainment",
+                "entertainment"
+            ],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "EWON-ovos-skills.0xrushi",
+            "source": "https://github.com/0xrushi/EWON-ovos-skills",
+            "license": "Apache-2.0",
+            "name": "Hello World",
+            "description": "This is a basic Hello Word Skill that takes an _Utterance_ from the user and provides a voice response - a _Dialog_. This Skill demonstrates the basic directory and file structure of a Mycroft Skill, and is a good first Skill to study if you are interested in developing Skills for the Mycroft ecosystem.",
+            "examples": [
+                "Hello world.",
+                "How are you?",
+                "Thank you."
+            ],
+            "tags": [
+                "Configuration",
+                "helloworld",
+                "first-skill",
+                "hello",
+                "greeting"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/smile.svg",
+            "author": "0xrushi"
+        },
+        {
+            "skill_id": "ovos-skill-ci-test.strugee",
+            "source": "https://github.com/strugee/ovos-skill-ci-test",
+            "name": "OVOSSkill",
+            "description": "Information about your skill.",
+            "examples": [
+                "Hello world.",
+                "How are you?",
+                "Thank you."
+            ],
+            "tags": [
+                "TODO:",
+                "ovos",
+                "skill"
+            ],
+            "icon": null,
+            "author": "strugee"
+        },
+        {
+            "skill_id": "ovos-skill-xkcd.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-xkcd",
+            "license": "Apache-2.0",
+            "name": "XKCD Comics",
+            "description": "Comics from [xkcd](https://xkcd.com/)\n\nCan be used as idle screen\n\n\n![](screenie.png)\n\n![](screenie2.png)\n\n![](screenie3.png)\n\n![](website.png)",
+            "examples": [
+                "Open the xkcd website.",
+                "Show me the latest xkcd comic.",
+                "Random xkcd.",
+                "Display comic number 2020.",
+                "How many xkcd comics."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "comics",
+                "-",
+                "idle",
+                "screen",
+                "-",
+                "mark2",
+                "-",
+                "bigscreen"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-xkcd/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "template-skill.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/template-skill",
+            "license": "NOASSERTION",
+            "name": "{title}",
+            "description": "{description}",
+            "examples": [],
+            "tags": [
+                "category",
+                "{categories}",
+                "tag",
+                "tag2"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-moon-game.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-moon-game",
+            "name": "Apollo 11 Space Game Skill",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ovos-wordnet.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-wordnet",
+            "license": "Apache-2.0",
+            "name": "Wordnet Skill",
+            "description": "Uses [Wordnet](https://wordnet.princeton.edu/) to provide information.",
+            "examples": [
+                "What is the definition of ?",
+                "What is the antonym of ?"
+            ],
+            "tags": [
+                "Information",
+                "Wordnet",
+                "query"
+            ],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-mm-wakeword.smartgic",
+            "source": "https://github.com/smartgic/skill-ovos-mm-wakeword",
+            "license": "MIT",
+            "name": "MagicMirror\u00b2 wake word detection",
+            "description": "[MagicMirror\u00b2](https://magicmirror.builders/) is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror\u00b2 allows you to convert your hallway or bathroom mirror into your personal assistant.\n\nThis skill interacts with MagicMirror\u00b2 to let you know if OVOS is listening. When a wake word is detected an image and message are display on the screen and when the recording is done image and the message disappear.\n\n",
+            "examples": [],
+            "tags": [
+                "IoT",
+                "smartmirror",
+                "magicmirror",
+                "wakeword",
+                "raspberrypi",
+                "smarthome"
+            ],
+            "icon": null,
+            "author": "smartgic"
+        },
+        {
+            "skill_id": "skill-ovos-spotify.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-spotify",
+            "name": "OVOS Spotify skill",
+            "description": "Currently Oauth needs to be performed manually\n\nafter installing the plugin run `ovos-spotify-oauth` on the command line and follow the instructions\n\n```\n$ ovos-spotify-oauth\nThis script creates the token information needed for running spotify\nwith a set of personal developer credentials.\n\nIt requires the user to go to developer.spotify.com and set up a\ndeveloper account, create an \"Application\" and make sure to whitelist\n\"https://localhost:8888\".\n\nAfter you have done that enter the information when prompted and follow\nthe instructions given.\n\nYOUR CLIENT ID: xxxxx\nYOUR CLIENT SECRET: xxxxx\nGo to the following URL: https://accounts.spotify.com/authorize?client_id=xxx&response_type=code&redirect_uri=https%3A%2F%2Flocalhost%3A8888&scope=user-library-read+streaming+playlist-read-private+user-top-read+user-read-playback-state\nEnter the URL you were redirected to: https://localhost:8888/?code=.....\nocp_spotify oauth token saved\n```",
+            "examples": [
+                "Play heavy metal.",
+                "Play motorhead."
+            ],
+            "tags": [],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-icanhazdadjokes.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-icanhazdadjokes",
+            "license": "Apache-2.0",
+            "name": "Jokes",
+            "description": "Brighten your day with dad humor.\n\n_WARNING:  Laughter is not guaranteed, but eye rolls are likely._\n\nWorks in all languages\n\nNOTE: this will automatically blacklist the official mycroft skill.",
+            "examples": [
+                "Tell me a joke.",
+                "Say a joke.",
+                "Do you know any jokes?",
+                "Can you tell jokes?",
+                "Make me laugh.",
+                "Tell me a joke about dentists.",
+                "Do you know any Chuck Norris jokes?"
+            ],
+            "tags": [
+                "Entertainment",
+                "joke",
+                "jokes",
+                "humor",
+                "humour",
+                "funny"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-icanhazdadjokes/dev/./res/icon/dadjokes.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-8fact.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-8fact",
+            "license": "Apache-2.0",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-apod.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-apod",
+            "license": "Apache-2.0",
+            "name": "Astronomy Picture of the Day",
+            "description": "NASA's Astronomy Picture of the Day\n\n![](gui.png)",
+            "examples": [
+                "Astronomy picture of the day.",
+                "Explain."
+            ],
+            "tags": [
+                "Entertainment",
+                "nasa"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-apod/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ovos-wikipedia.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-wikipedia",
+            "license": "Apache-2.0",
+            "name": "Wikipedia",
+            "description": "Query [Wikipedia](https://www.wikipedia.org) for answers to all your questions.  Get just a summary, or ask for more to get in-depth information.\n\n![](./gui.gif)",
+            "examples": [
+                "Tell me about Elon Musk.",
+                "Tell me about beans.",
+                "Check Wikipedia for beans.",
+                "Tell me about the Pembroke Welsh Corgi.",
+                "Search for chocolate.",
+                "More information.",
+                "Tell me More."
+            ],
+            "tags": [
+                "Information",
+                "wikipedia",
+                "encyclopedia",
+                "general-knowledge",
+                "wiki",
+                "question",
+                "query"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/brands/wikipedia-w.svg",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-news.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-news",
+            "license": "Apache-2.0",
+            "name": "News Streams",
+            "description": "News streams from around the globe\n\n![](gui.png)\n![](gui2.png)\n![](gui3.png)\n\nPRs adding new feeds welcome, especially for unsupported languages\n\nSupported stations include:\n\n- [EN-US] AP - Associated Press Hourly Radio News\n- [EN-US] Fox News\n- [EN-US] NPR News Now\n- [EN-US] PBS NewsHour\n- [EN-US] GPB - Georgia Public Broadcasting\n- [EN-GB] BBC News\n- [EN-CA] CBC News\n- [ES-ES] RNE Radio Nacional de Espa\u00f1a\n- [PT-PT] TSF R\u00e1dio Not\u00edcias\n- [NL] VRT Nieuws\n- [DE] \u00d63 Nachrichten\n- [DE] DLF\n- [DE] WDR\n- [FI] YLE\n- [SV] Ekot\n\n\n### Classic Core Installation\n\nIf you are using this skill with mycroft classic core, you have to [disable the official skill](https://mycroft-ai.gitbook.io/docs/skill-development/faq#how-do-i-disable-a-skill) because they are incompatible\n\nTo play https streams properly you also need to install vlc\n\n```bash\nsudo apt-get install vlc\n```\n\nand make it the default it in your .conf\n\n```json\n\"Audio\": {\n\"backends\": {\n\"local\": {\n\"active\": false\n},\n\"vlc\": {\n\"active\": true\n}\n},\n\"default-backend\": \"vlc\"\n},\n```",
+            "examples": [
+                "Play the news.",
+                "Play npr news.",
+                "Play euronews.",
+                "Play catalan news.",
+                "Play portuguese news.",
+                "Play news in spanish."
+            ],
+            "tags": [
+                "Information",
+                "news"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-news/dev/./res/icon/news.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-testpkg.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-testpkg",
+            "license": "Apache-2.0",
+            "name": "ovos-testpkg",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-librivox.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-librivox",
+            "license": "Apache-2.0",
+            "name": "Librivox Skill",
+            "description": "Search librivox by voice!\n\n![](./gui.gif)",
+            "examples": [
+                "Read the art of war."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "audiobooks",
+                "-",
+                "librivox",
+                "-",
+                "common",
+                "play"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-librivox/dev/./ui/librivox-icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-moviemaster.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-skill-moviemaster",
+            "license": "Apache-2.0",
+            "name": "Movie Master",
+            "description": "Easily find information about a movie with your voice.",
+            "examples": [
+                "What is the movie _______ about?",
+                "Tell me about the movie _______",
+                "Who plays in the movie _______?",
+                "What genres does the flick _______ belong to?",
+                "Look for information on the movie _______.",
+                "When was the movie _______ made?",
+                "Do you have info on the film _______?",
+                "What are popular movies playing now?",
+                "What films do you recommend like _______?",
+                "How long is the movie _______?",
+                "What are the highest rated movies out?"
+            ],
+            "tags": [
+                "Entertainment",
+                "TMDB",
+                "Movies",
+                "Actors",
+                "Mark",
+                "I"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/ovos-skill-moviemaster/dev/PrimaryLogo_Green.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-fart.andlo",
+            "source": "https://github.com/andlo/ovos-skill-fart",
+            "license": "GPL-3.0",
+            "name": "Farting",
+            "description": "This is just a fun skill that should generate a laugh or two and then never be used again.\n\nWhen asked \"who did that\", Mycroft will answer with a statement such as \"it wasn't me. it was the dog\".\n\nWhen told to \"make a farting sound\", Mycroft will play a randomly selected fart sound file, followed by\na statement such as \"did someone sit on a whoopee cushion\".\n\nWhen told to \"let one slip\" or \"fart randomly\", Mycroft will play a fart sound file and make a comment\nat a random interval between 1 minute and half an hour. This will continue until Mycroft is requested\nto stop via \"halt farting\".\n\nThis is a rewrite of (@aussieW) skill-farting so it will work on Mycroft-core 19.8.",
+            "examples": [
+                "Did you fart.",
+                "What is that smell?",
+                "Fart.",
+                "Make a fart.",
+                "Fart randomly.",
+                "Halt farting."
+            ],
+            "tags": [
+                "Entertainment",
+                "fart",
+                "smell",
+                "fun"
+            ],
+            "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-fart/main/fart.png",
+            "author": "andlo"
+        },
+        {
+            "skill_id": "skill-update.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-update",
+            "license": "NOASSERTION",
+            "name": "Neon Updates",
+            "description": "The update skill provides intents for the user to manage device updates, including\ncore packages, skills, configuration, and creation of new boot media.\n\n### Software Updates\nThis skill can be used to check for software updates and to start the update\nprocess on supported devices. For most devices, updates will take 10-30 minutes,\nand you will not be able to use your device while it is updating.\n\n### Configuration Updates\nFor supported distributions, this skill allows getting updated default configuration.\nThis can be useful for resetting skills configuration to the latest default, or for\ntroubleshooting after making manual configuration changes.\n\n### Create New Media\nFor supported distributions, this skill is able to create a new boot drive from\na clean image, similar to what would be distributed with a new device. This involves\ndownloading a new image and then writing it to an available storage device. This\nis a multi-step process.\n1. An operating system image is downloaded. Depending on internet connection\nspeeds, this generally takes about 15-20 minutes.\n2. After user confirmation, this image is written to a non-boot drive connected\nto the device. **All existing on the new boot drive is lost**. This generally\ntakes about 30-45 minutes.\n3. After this is complete, the device is shut down so the user may unplug the old\ndrive and boot the new one.",
+            "examples": [
+                "Check for updates.",
+                "Do you have any updates?",
+                "Update my default configuration.",
+                "Create a new boot drive.",
+                "Switch to beta releases.",
+                "Change to stable updates."
+            ],
+            "tags": [
+                "Information",
+                "NeonGecko",
+                "Original",
+                "NeonAI",
+                "Update"
+            ],
+            "icon": "https://raw.githubusercontent.com/NeonGeckoCom/skill-update/dev/./logo.svg",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-algorithmic-art.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-algorithmic-art",
+            "license": "Apache-2.0",
+            "name": "Algorithmic Art Skill",
+            "description": "Creating art from math\n\nsee example generated pictures in [samples folder](./samples)\n\n![](./screenshot.png)",
+            "examples": [
+                "Draw a picture."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "art",
+                "-",
+                "entertainment",
+                "-",
+                "screensaver"
+            ],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-quote-of-day.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-quote-of-day",
+            "license": "Apache-2.0",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ccc.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/skill-ccc",
+            "license": "Apache-2.0",
+            "name": "Cult Cinema Classics Skill",
+            "description": "Cult movie classics for OpenVoiceOS\n\n![](./gui4.png)\n![](./gui2.png)\n![](./gui.png)\n![](./gui3.png)",
+            "examples": [
+                "Open cult movie classics menu.",
+                "Play zontar the thing from venus movie.",
+                "Play cult movie classics.",
+                "Play invasion of the saucer men."
+            ],
+            "tags": [
+                "Entertainment",
+                "movies",
+                "publicdomain",
+                "classicmovies",
+                "video",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-ccc/dev/./res/icon/ccc_icon.png",
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "skill-ovos-bandcamp.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-bandcamp",
+            "license": "Apache-2.0",
+            "name": "BandCamp Skill",
+            "description": "Bandcamp skill for your hipster music needs\n\n![](./gui.gif)",
+            "examples": [
+                "Play compressorhead.",
+                "Play astronaut problems.",
+                "Play {artist/album/genre/track}",
+                "Search bandcamp for black metal.",
+                "Search bandcamp for {artist/album/genre/track}",
+                "Play center of all infinity album.",
+                "Play {album} album.",
+                "Play freezing moon by mayhem.",
+                "Play {track} by {artist}"
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "music",
+                "-",
+                "audio",
+                "-",
+                "bandcamp",
+                "-",
+                "common",
+                "play"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-bandcamp/dev/./ui/logo.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-demo.NeonGeckoCom",
+            "source": "https://github.com/NeonGeckoCom/skill-demo",
+            "license": "NOASSERTION",
+            "name": "Demo",
+            "description": "The demo skill will prompt on first run if you'd like to see a demo. User may accept or decline and optionally choose to\nbe asked again on next run. The demo may also be run at any time via intent.",
+            "examples": [
+                "Show me the demo."
+            ],
+            "tags": [
+                "Information",
+                "NeonGecko",
+                "Original",
+                "NeonAI",
+                "Demo"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "NeonGeckoCom"
+        },
+        {
+            "skill_id": "ovos-skill-daily-blue-marble.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-daily-blue-marble",
+            "license": "Apache-2.0",
+            "name": "Daily Blue Marble",
+            "description": "[Earth Polychromatic Imaging Camera](https://epic.gsfc.nasa.gov/) provides near real time pictures of earth from orbit\n\nCan be used as homescreen\n\n![](gui.gif)\n![](gui.png)\n![](website.png)",
+            "examples": [
+                "Show me earth from space.",
+                "Daily Blue Marble.",
+                "Blue Marble of the Day.",
+                "Animate that.",
+                "Tell me about Earth Polychromatic Imaging Camera.",
+                "Open the epic website from nasa.",
+                "What is the location of DSCOVR spacecraft?"
+            ],
+            "tags": [
+                "Information",
+                "-",
+                "nasa",
+                "-",
+                "idle",
+                "screen",
+                "-",
+                "mark2",
+                "-",
+                "bigscreen"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-daily-blue-marble/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-ovos-youtube-music.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-youtube-music",
+            "license": "Apache-2.0",
+            "name": "Youtube Music Skill",
+            "description": "Search Youtube Music by voice!\n\n![](./gui.gif)",
+            "examples": [
+                "Play Ant\u00f3nio Varia\u00e7\u00f5es."
+            ],
+            "tags": [
+                "Entertainment",
+                "-",
+                "youtube",
+                "-",
+                "common",
+                "play",
+                "-",
+                "music"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/skill-ovos-youtube-music/dev/./ui/ytmus.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "skill-ovos-randomness.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/skill-ovos-randomness",
+            "name": "skill-randomness",
+            "description": "A skill for all kinds of chance - make a choice, roll a die, flip a coin, pick between two choices, etc.\n\nAccepts a single property: `die_limit`, which is the maximum number of dice that can be rolled at once. The default is 16.\n\n`~/.config/mycroft/skills/skill-randomness.openvoiceos/settings.json`\n\n```json\n{\n\"die_limit\": 16\n}\n```",
+            "examples": [
+                "Flip a coin.",
+                "Tell me my future.",
+                "Help me decide something.",
+                "Pick a number between 1 and 100.",
+                "Roll a die.",
+                "Roll 1 d 20.",
+                "Roll 6 d 8.",
+                "Roll a 20 sided die.",
+                "Roll 5 dice.",
+                "Roll 6, 8 sided dice."
+            ],
+            "tags": [
+                "Chance",
+                "Fun",
+                "Games",
+                "ovos",
+                "skill",
+                "games",
+                "fun",
+                "chance"
+            ],
+            "icon": null,
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "neon-skill-astronomy.dblencowe",
+            "source": "https://github.com/dblencowe/neon-skill-astronomy",
+            "license": "NOASSERTION",
+            "name": "{title}",
+            "description": "{description}",
+            "examples": [],
+            "tags": [
+                "category",
+                "{categories}",
+                "tag",
+                "tag2"
+            ],
+            "icon": "https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png",
+            "author": "dblencowe"
+        },
+        {
+            "skill_id": "ovos-skill-laugh.OpenVoiceOS",
+            "source": "https://github.com/OpenVoiceOS/ovos-skill-laugh",
+            "license": "Apache-2.0",
+            "name": "Laugh",
+            "description": "Laugh randomly or when requested.",
+            "examples": [
+                "Laugh like Alexa.",
+                "Can you laugh."
+            ],
+            "tags": [
+                "Entertainment",
+                "laugh",
+                "funny",
+                "entertainment",
+                "repeating"
+            ],
+            "icon": "https://raw.githubusercontent.com/OpenVoiceOS/ovos-skill-laugh/dev/./res/icon/laugh_icon.png",
+            "author": "OpenVoiceOS"
+        },
+        {
+            "skill_id": "ovos-skill-old-world-radio.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-old-world-radio",
+            "license": "Apache-2.0",
+            "name": "Old World Radio",
+            "description": "![](./gui.gif)",
+            "examples": [
+                "Play old world radio.",
+                "Play vintage radio."
+            ],
+            "tags": [
+                "Entertainment",
+                "audio",
+                "music",
+                "entertainment\""
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-old-world-radio/dev/./res/icon/icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "hubitat-integration-skill.burnsfisher",
+            "source": "https://github.com/burnsfisher/hubitat-integration-skill",
+            "license": "Apache-2.0",
+            "name": "Hubitat Integration",
+            "description": "First note that Mycroft was an open source smart speaker app and hardware initially started with crowdfunding.  They produced both software to run a user's own Raspberry Pi (PiCroft)\nand a hardware device called Mycroft Mark II.  (There is a Mark I but few people have it.).  They have since essentially closed their doors and the work and hardware support has been\ntaken over by  a company called Neon Gecko.  Unfortunately, all of Mycroft's servers have been shut down, so the PiCroft version no longer works.  Thus, this is about the Mark II running Neon.  (There may be some other possibilities through Neon Gecko, but I know nothing abut them).\n\nNeon Gecko is producing software using OVOS (Open Voice OS).  I am currently using a Mark II running the Neon/OVOS software, but I will\nsay \"Mycroft\" to stand for the MkII with Neon/OVOS.  This skill does not work with MkII and the Mycroft (dinkum) software because you can't access the Mk II via SSH\nwhen it is running dinkum and you need that in order to install the skill.  In addition, Dinkum depends on the Mycroft servers which no longer exist.\n\nSo now:\nThis is a skill to teach Mycroft how to send commands to the Hubitat Elevation Zigbee/ZWave hub based on spoken commands.  It should work with newer Hubitat models but I have\nnot tried it.  This skill can deal with any Hubitat device that is enabled in the Hubitat \"Maker\" app and which has commands \"on\", \"off\" or \"setLevel\".  This includes essentially any switched outlets, lights,\ndimmers, and scene activators.  It can also read some attributes, although allowed attributes must be specified in settings.\n\nYou can also ask it to scan for new devices that Hubitat has made available to it, and you can list the devices it knows (but that takes a while for Mycroft to speak).\n\nThe device name that you speak to Mycroft is the device label you have specified in Hubitat, but the skill uses \"fuzzywuzzy\" to allow some leeway in what you say.\n\nThere are six configuration settings for this skill (which you set in a config file for Neon).  You *must* specify the access token and the API number, both of which can be found by looking at the Hubitat \"Maker\" app. (Look at the example URLs.  The API number follows \"api\" and the access token follows \"access_token\"  The Hubitat address defaults to hubitat.local, but for some reason, the .local domain does not work on Neon/OVOS so you should really set a reservation for the Hubitat and then specify the numeric address you chose (e.g. 192.168.2.3).  You can also specify a 'score' between 0 and 100 for comparing the device name you speak to the Hubitat label.  For example, if the label is 'bookcase lights' you can say 'the bookcase lights', 'bookcase light', 'lights on the bookcase', etc.  A score of 65 seems to work well.\n\nThis skill can read attributes as well, but you must specify both the name of the attribute and the Hubitat label of the device in settings.  In the \"attr\" setting, include a comma-separated list of attributes with quotes, for example \"temperature\",\"heatingSetPoint\",\"level\".  In the device setting, enter a comma-separated list of default devices that match the attributes order.  For example, \"thermostat\",\"thermostat\",\"overhead lights\".  The your utterance can include the device, especially if more than one device has the same attribute.  Notice that these are hard intents to define because it is common to speak differently depending on the attribute.",
+            "examples": [
+                "Turn on the bookcase lights.",
+                "Turn off bookcase light.",
+                "Set the overhead light to 50%",
+                "Scan for new devices.",
+                "Set overnight mode.",
+                "Show me the inside temperature.",
+                "Tell me the level of the window lights."
+            ],
+            "tags": [
+                "IoT",
+                "hubitat",
+                "zigbee",
+                "zwave"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/home.svg",
+            "author": "burnsfisher"
+        },
+        {
+            "skill_id": "skill-ovos-just-watch.NeonJarbas",
+            "source": "https://github.com/NeonJarbas/skill-ovos-just-watch",
+            "license": "Apache-2.0",
+            "name": "JustWatch Skill",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "NeonJarbas"
+        },
+        {
+            "skill_id": "ovos-skill-shoutcast.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-shoutcast",
+            "license": "Apache-2.0",
+            "name": "Shoutcast Skill",
+            "description": "",
+            "examples": [
+                "Play heavy metal radio."
+            ],
+            "tags": [
+                "Entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-shoutcast/dev/./ui/logo.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-mpc-mike99mac.mike99mac",
+            "source": "https://github.com/mike99mac/ovos-skill-mpc-mike99mac",
+            "license": "WTFPL",
+            "name": "mpc",
+            "description": "Stream music files or Internet radio status from your Linux server using Mycroft powered by OVOS and Neon.",
+            "examples": [
+                "Play track yeserday.",
+                "Play album abbey road.",
+                "Play artist the beatles.",
+                "Play the radio.",
+                "Play genre country from the radio."
+            ],
+            "tags": [
+                "Music",
+                "mpc",
+                "mpd",
+                "music",
+                "skill"
+            ],
+            "icon": null,
+            "author": "mike99mac"
+        },
+        {
+            "skill_id": "skill-ovos-notes.LibreVoiceAssistant",
+            "source": "https://github.com/LibreVoiceAssistant/skill-ovos-notes",
+            "license": "Apache-2.0",
+            "name": "DEPRECATED - Notes",
+            "description": "Use OVOS when your hands are busy and you want to quickly take a note.",
+            "examples": [
+                "Take a note.",
+                "Show all my notes.",
+                "Read my last 3 notes.",
+                "Read my first 3 notes.",
+                "Read my last note.",
+                "Read all my notes.",
+                "Delete / Remove note (number)"
+            ],
+            "tags": [
+                "Daily",
+                "notes",
+                "productivity"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/sticky-note.svg",
+            "author": "LibreVoiceAssistant"
+        },
+        {
+            "skill_id": "skill-r2arc-text.SeniorDesign-RC-LB",
+            "source": "https://github.com/SeniorDesign-RC-LB/skill-r2arc-text",
+            "name": "Simple OVOS Texting Skill",
+            "description": "The skill send a text to a phone number when the user says the word emergency.",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "SeniorDesign-RC-LB"
+        },
+        {
+            "skill_id": "ovos-skill-helioviewer.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-helioviewer",
+            "license": "Apache-2.0",
+            "name": "Helioviewer Skill",
+            "description": "Daily sunspot data from [Sunspot Index and Long-term Solar Observations](http://sidc.be/silso/home) and pictures from NASA's [Solar and Heliospheric Observatory](https://sohowww.nascom.nasa.gov/sunspots/)\n\nCan be used as idle screen for the mark2\n\n![](gui7.png)\n![](gui.png)\n![](gui2.png)\n![](gui3.png)\n![](gui4.png)\n![](gui.gif)\n![](gui6.png)",
+            "examples": [
+                "Live picture of the sun.",
+                "Whats the number of sunspots?",
+                "How many sunspots yesterday.",
+                "How many sunspots 3 days ago.",
+                "Show me a picture of the solar corona.",
+                "Ultraviolet sun picture for 2 million degrees.",
+                "Ultraviolet picture of the heliosphere.",
+                "Show me magnetic field of the sun.",
+                "Animate that.",
+                "Next picture.",
+                "Previous picture.",
+                "Open helioviewer."
+            ],
+            "tags": [
+                "Information",
+                "nasa",
+                "space",
+                "sun",
+                "helioviewer"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-helioviewer/master/./icon.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-fairytales.andlo",
+            "source": "https://github.com/andlo/ovos-skill-fairytales",
+            "license": "GPL-3.0",
+            "name": "Fairy Tales",
+            "description": "This skill enables Mycroft to tell a lot of H. C. Andersen's and the Brothers Grimm fairy tales. So make a cup of coco, and sit back and enjoy listning to the good clasic tales.\n\nContent is from andersenstories.com and grimmstories.com, so please go visit there if you like the stories and want them in text to read.\n\nhttps://www.andersenstories.com/\nhttps://www.grimmstories.com/\n\nThis skill support stories in following languages: EN, DE, DA, ES, FR, IT. NL and uses the language your device is setup to use.\n\n_\u201cIf you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.\u201d\nAlbert Einstein_",
+            "examples": [
+                "Tell me a story about The little Mermaide.",
+                "Tell me the story about Cinderella.",
+                "Continue the story."
+            ],
+            "tags": [
+                "Entertainment",
+                "stories",
+                "story",
+                "tales",
+                "fairy",
+                "fairytale",
+                "fairytales",
+                "andersen",
+                "hca",
+                "grimm"
+            ],
+            "icon": "https://raw.githubusercontent.com/andlo/ovos-skill-fairytales/master/story-512.png",
+            "author": "andlo"
+        },
+        {
+            "skill_id": "jellyfin-skill.LostLightProjects",
+            "source": "https://github.com/LostLightProjects/jellyfin-skill",
+            "license": "GPL-2.0",
+            "name": "Jellyfin",
+            "description": "Stream music from your Jellyfin server using Mycroft, OVOS & NEON! Play all songs by an artist or an instant mix of any artist/album/song in your Jellyfin library.\n\nThis has been tested on Zorin OS 16 (Ubuntu 20.04 LTS), Debian Stable, Fedora Worksation 35 & 36, Lost Light OS using VLC audio backend and PiCroft using Google AIY Voicekit and VLC (VLC is needed for PiCroft - read down below)",
+            "examples": [],
+            "tags": [
+                "Music",
+                "Jellyfin,Music"
+            ],
+            "icon": "https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/music.svg",
+            "author": "LostLightProjects"
+        },
+        {
+            "skill_id": "neon-homeassistant-skill.mikejgray",
+            "source": "https://github.com/mikejgray/neon-homeassistant-skill",
+            "license": "Apache-2.0",
+            "name": "Home Assistant Neon Skill",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "mikejgray"
+        },
+        {
+            "skill_id": "ovos-skill-good-manners.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-good-manners",
+            "name": "",
+            "description": "",
+            "examples": [],
+            "tags": [],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-iheart.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-iheart",
+            "license": "Apache-2.0",
+            "name": "IHeartRadio",
+            "description": ":warning: iheart radio only provides podcasts outside the US\n\n![](./gui.png)\n![](./gui2.png)",
+            "examples": [
+                "Play rock radio.",
+                "Play the heavy metal hangover podcast."
+            ],
+            "tags": [
+                "Entertainment",
+                "audio",
+                "radio",
+                "OCP",
+                "entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-iheart/master/./ui/iheart.png",
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "ovos-skill-planet-fall-game.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/ovos-skill-planet-fall-game",
+            "name": "Planet Fall",
+            "description": "![](http://infocom.elsewhere.org/gallery/planetfall/planetfall1.jpg)\n\nImages of exotic worlds, strange and colorful aliens and Deep Space heroism had danced in your head as you signed the dotted line. And since that day the closest you've come to Deep Space heroism was scrubbing down the radioactive leper colony on Ishmael-3.",
+            "examples": [
+                "Play planet fall.",
+                "Save.",
+                "Resume planet fall."
+            ],
+            "tags": [
+                "Entertainment",
+                "game",
+                "adventure",
+                "cave"
+            ],
+            "icon": null,
+            "author": "JarbasSkills"
+        },
+        {
+            "skill_id": "ovos-skill-cave-adventure-game.OVOSHatchery",
+            "source": "https://github.com/OVOSHatchery/ovos-skill-cave-adventure-game",
+            "license": "Apache-2.0",
+            "name": "Colossal Cave Adventure",
+            "description": "This is a faithful port of the \u201cAdventure\u201d game to a OVOS Skill from the original 1977 FORTRAN code by Crowther and Woods.\n\nRunning via the Z-machine port.",
+            "examples": [
+                "Play cave adventure.",
+                "Save.",
+                "Resume cave adventure."
+            ],
+            "tags": [
+                "Entertainment",
+                "game",
+                "adventure",
+                "cave"
+            ],
+            "icon": null,
+            "author": "OVOSHatchery"
+        },
+        {
+            "skill_id": "skill-dust.JarbasSkills",
+            "source": "https://github.com/JarbasSkills/skill-dust",
+            "license": "Apache-2.0",
+            "name": "DUST Skill",
+            "description": "Dust short science fiction movies for Mycroft\n\n![](./gui.png)\n![](./gui2.png)\n\nthis skill requires [OCP](https://github.com/OpenVoiceOS/ovos-ocp-audio-plugin)",
+            "examples": [
+                "Play sci fi short movie.",
+                "Play dust."
+            ],
+            "tags": [
+                "Entertainment"
+            ],
+            "icon": "https://raw.githubusercontent.com/JarbasSkills/skill-dust/dev/./res/icon/dust_icon.png",
+            "author": "JarbasSkills"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "skill_id": "ovos-rasa-skills.svhozt",
+  "source": "https://github.com/svhozt/ovos-rasa-skills",
+  "name": "Code in the skill compose file",
+  "description": "",
+  "examples": [],
+  "tags": [],
+  "icon": null,
+  "author": "svhozt"
+}

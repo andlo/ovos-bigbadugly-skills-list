@@ -1,0 +1,15 @@
+{
+  "skill_id": "ovos-skill-shoutcast.OVOSHatchery",
+  "source": "https://github.com/OVOSHatchery/ovos-skill-shoutcast",
+  "license": "Apache-2.0",
+  "name": "Shoutcast Skill",
+  "description": "",
+  "examples": [
+    "Play heavy metal radio."
+  ],
+  "tags": [
+    "Entertainment"
+  ],
+  "icon": "https://raw.githubusercontent.com/OVOSHatchery/ovos-skill-shoutcast/dev/./ui/logo.png",
+  "author": "OVOSHatchery"
+}

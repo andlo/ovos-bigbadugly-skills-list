@@ -1,0 +1,20 @@
+{
+  "skill_id": "ovos-skill-laugh.OpenVoiceOS",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-laugh",
+  "license": "Apache-2.0",
+  "name": "Laugh",
+  "description": "Laugh randomly or when requested.",
+  "examples": [
+    "Laugh like Alexa.",
+    "Can you laugh."
+  ],
+  "tags": [
+    "Entertainment",
+    "laugh",
+    "funny",
+    "entertainment",
+    "repeating"
+  ],
+  "icon": "https://raw.githubusercontent.com/OpenVoiceOS/ovos-skill-laugh/dev/./res/icon/laugh_icon.png",
+  "author": "OpenVoiceOS"
+}

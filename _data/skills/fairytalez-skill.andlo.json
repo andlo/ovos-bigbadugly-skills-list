@@ -1,0 +1,23 @@
+{
+  "skill_id": "fairytalez-skill.andlo",
+  "source": "https://github.com/andlo/fairytalez-skill",
+  "license": "GPL-3.0",
+  "name": "Fairytalez",
+  "description": "This skill enables Mycroft to tell lots of fairytales. So make a cup of coco, and sit back and enjoy listning to the good tales.\n\nContent is from fairytalez.com, so please go visit there if you like the stories.\nFairytalez.com is the world's largest collection of fairy tales, fables and folktales. Discover more than 2,000 classic tales plus new stories by fairy tale fans.\n\nhttp://www.fairytalez.com\n\n\n_“If you want your children to be intelligent, read them fairy tales. If you want them to be more\nintelligent, read them more fairy tales.”\nAlbert Einstein_",
+  "examples": [
+    "Tell a fairy tale.",
+    "Tell me the story The Little Match Girl.",
+    "Continue story."
+  ],
+  "tags": [
+    "Entertainment",
+    "stories",
+    "story",
+    "tales",
+    "fairy",
+    "fairytale",
+    "fairytales"
+  ],
+  "icon": "https://raw.githubusercontent.com/andlo/fairytalez-skill/master/story-512.png",
+  "author": "andlo"
+}
