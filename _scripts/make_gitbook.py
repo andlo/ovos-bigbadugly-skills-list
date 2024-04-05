@@ -8,10 +8,12 @@ import re
 import datetime
 
 
+json_data = open('../_data/github_skills.json')
+github_data = json.load(json_data)
 json_data = open('../_data/skills.json')
-skillsdata = json.load(json_data)
+skills_data = json.load(json_data)
 
-def make_skillsfiles(skills):
+def make_skills_md(skills):
     for skill in skills:
         txt = []
         txt.append('---\n')

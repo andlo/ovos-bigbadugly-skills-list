@@ -14,7 +14,11 @@ from collections import OrderedDict
 from typing import Optional
 from difflib import SequenceMatcher
 import urllib.parse
+import pip
 
+
+import jk_pypiorgapi
+import jk_json
 
 '''
 Generates a json data with all skills found nby searching github. For every skill
@@ -242,7 +246,7 @@ def search_github():
 
 def process_repos():
     print('Processing Github repos...')
-    f = open('github_search.json')
+    f = open('../_data/github_search.json')
     github_search = json.load(f)
     skills = []
     added = 0
@@ -255,7 +259,7 @@ def process_repos():
             print("Added " + repo['name'] + '.' + repo['owner']['login'])
             added = added + 1
         proc = proc + 1
-    f = open('github_skills.json', 'w')
+    f = open('../_data/github_skills.json', 'w')
     f.write(json.dumps(skills, ensure_ascii=False, indent=2))
     f.close()
     #f = open('github_list.json', 'w')
@@ -268,11 +272,13 @@ def make_skill_json():
     print('Processing skills and making .json files...')
         
     result = []
-    f = open('github_skills.json')
+    f = open('../_data/github_skills.json')
     repos = json.load(f)
     proc = 0
     total = 0
     added = 0
+    skills = []
+    
     for repo in repos:
         print("Processing " + str(proc) +"/" + str(len(result)) + " " + repo['full_name'])
         """ Generate an skil-repo entry """
@@ -304,10 +310,16 @@ def make_skill_json():
         #skill['name'] = repo[]
         #skill['description'] = 
 
-        filename = "../_data/" + repo['name'] + '.' + repo['owner']['login'] + '.json'
+        filename = "../_data/skills/" + repo['name'] + '.' + repo['owner']['login'] + '.json'
         f = open(filename, 'w')
         f.write(json.dumps(skill, ensure_ascii=False, indent=2))
         f.close()
+        skills.append(skill)
+    filename = "../_data/skills.json"
+    f = open(filename, 'w')
+    f.write(json.dumps(skills, ensure_ascii=False, indent=2))
+    f.close()
+
 
 def make_skill_store():
     output = {
@@ -328,7 +340,22 @@ def make_skill_store():
         json.dump(output, f, indent=4)
 
 #search_github()
-process_repos()
-make_skill_json()
-make_skill_store()
+#process_repos()
+#make_skill_json()
+#make_skill_store()
 
+
+#print( (['search'], 'skill-ovos-fallback-chatgpt'))
+
+
+#request = requests.get('http://pypi.python.org/pypi/skill-ovos-fallback-chatgpt/json')
+#print(request)
+
+#r = requests.get(f'https://pypi.org/pypi/skill-ovos-fallback-chatgpt/json', headers = {'Accept': 'application/json'});
+##print(r)
+#info = r.json()['info']
+#print(f"requested package name = skill-ovos-fallback-aaachatgpt, stored name: {info['name']}, author: {info['author']}, version: {info['version']}, license: {info['license']}")
+
+api = jk_pypiorgapi.PyPiOrgAPI()
+jData = api.getPackageInfoJSON("skill-ovos-fallback-chatgpt")
+jk_json.prettyPrint(jData)
