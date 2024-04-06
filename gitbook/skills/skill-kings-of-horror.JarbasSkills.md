@@ -2,9 +2,9 @@
 description: short description
 ---
 
-### _skill-smod.JarbasSkills_  
+### _skill-kings-of-horror.JarbasSkills_  
 ## Description:  
-Stoner Doom for  OpenVoiceOS
+Indie horror movies for OpenVoiceOS
 
 ![](./gui.png)
 ![](./gui.gif)
